@@ -20,7 +20,7 @@
 5.  [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua bengio
 6.  [Principles of Hierarchical Temporal Memory](https://www.youtube.com/watch?v=6ufPpZDmPKA) by Jeff Hawkins
 7.  [Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates
-8.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates
+8.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates 
 9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates
 10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun
 
