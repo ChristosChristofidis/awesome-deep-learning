@@ -1,14 +1,6 @@
-<div class="page-content">
-      <div class="wrapper">
-        <div class="post">
-
-  <header class="post-header">
 
 # Deep learning Reading List
 
-  </header>
-
-  <article class="post-content">
 
 Following is a growing list of some of the materials i found on the web for Deep Learning beginners. 
 
@@ -84,10 +76,3 @@ Following is a growing list of some of the materials i found on the web for Deep
 7.  [Vision data sets](http://www.cs.cmu.edu/~cil/v-images.html)
 8.  [Fantastic Torch Tutorial](http://code.cogbits.com/wiki/doku.php) My personal favourite. Also check out [gfx.js](https://github.com/clementfarabet/gfx.js)
 9.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
-
-  </article>
-
-</div>
-
-      </div>
-    </div>
