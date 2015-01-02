@@ -69,5 +69,5 @@
 6.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
 7.  [Vision data sets](http://www.cs.cmu.edu/~cil/v-images.html)
 8.  [Fantastic Torch Tutorial](http://code.cogbits.com/wiki/doku.php)
-9.[gfx.js](https://github.com/clementfarabet/gfx.js)
+9.  [gfx.js](https://github.com/clementfarabet/gfx.js)
 10.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
