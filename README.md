@@ -7,10 +7,12 @@
 
 ### Courses
 
-1.  [Machine Learning](https://class.coursera.org/ml-005) by Andrew Ng in Coursera
+1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera
+2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) by Yaser Abu-Mostafa
 2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) by Geoffrey Hinton in Coursera
 3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) by Hugo Larochelle from Université de Sherbrooke
 4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) by CILVR lab @ NYU
+
 
 ### Video and Lectures
 
