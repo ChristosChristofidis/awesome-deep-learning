@@ -1,9 +1,3 @@
-
-# Deep learning Reading List
-
-
-Following is a growing list of some of the materials i found on the web for Deep Learning beginners. 
-
 ### Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville
