@@ -56,9 +56,11 @@
 
 ### Frameworks
 
-1.  [Caffe](http://caffe.berkeleyvision.org/)2.  [Torch7](http://torch.ch/)
+1.  [Caffe](http://caffe.berkeleyvision.org/)  
+2.  [Torch7](http://torch.ch/)
 3.  [Theano](http://deeplearning.net/software/theano/)
-4.  [cuda-convnet](https://code.google.com/p/cuda-convnet2/)5.  [Ccv](http://libccv.org/doc/doc-convnet/)
+4.  [cuda-convnet](https://code.google.com/p/cuda-convnet2/)
+5.  [Ccv](http://libccv.org/doc/doc-convnet/)
 6.  [NuPIC](http://numenta.org/nupic.html)
 7.  [DeepLearning4J](http://deeplearning4j.org/)
 
