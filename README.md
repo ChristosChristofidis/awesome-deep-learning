@@ -17,7 +17,8 @@
 
 ### Video and Lectures
 
-1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil - Is a inspiring talk2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
+1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
+2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
 3.  [Recent Developments in Deep Learning](https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) By Geoff Hinton
 4.  [The Unreasonable Effectiveness of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun
 5.  [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua bengio
@@ -51,8 +52,10 @@
 
 1.  [MNIST](http://yann.lecun.com/exdb/mnist/) Handwritten digits
 2.  [Google House Numbers](http://ufldl.stanford.edu/housenumbers/) from street view
-3.  [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)4.  [IMAGENET](http://www.image-net.org/)
-5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.  [Flickr Data](http://yahoolabs.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
+3.  [CIFAR-10 and CIFAR-100](http://www.cs.toronto.edu/~kriz/cifar.html)4.  
+4.  [IMAGENET](http://www.image-net.org/)
+5.  [Tiny Images](http://groups.csail.mit.edu/vision/TinyImages/) 80 Million tiny images6.  
+6.  [Flickr Data](http://yahoolabs.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
 7.  [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
 
 ### Frameworks
@@ -76,7 +79,7 @@
 7.  [Vision data sets](http://www.cs.cmu.edu/~cil/v-images.html)
 8.  [Fantastic Torch Tutorial](http://code.cogbits.com/wiki/doku.php)
 9.  [gfx.js](https://github.com/clementfarabet/gfx.js)
-10.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+10. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 
 -----
 ### Contributing
