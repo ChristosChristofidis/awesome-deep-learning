@@ -79,6 +79,5 @@
 10.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 
 -----
-
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls).
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
