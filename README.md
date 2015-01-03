@@ -9,6 +9,7 @@
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera
 2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) by Yaser Abu-Mostafa
+3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) by Tom Mitchell
 2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) by Geoffrey Hinton in Coursera
 3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) by Hugo Larochelle from Université de Sherbrooke
 4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) by CILVR lab @ NYU
@@ -76,3 +77,8 @@
 8.  [Fantastic Torch Tutorial](http://code.cogbits.com/wiki/doku.php)
 9.  [gfx.js](https://github.com/clementfarabet/gfx.js)
 10.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+
+-----
+
+### Contributing
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/prakhar1989/awesome-courses/pulls).
