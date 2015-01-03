@@ -28,7 +28,7 @@
 9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates
 10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun
 11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton on GoogleTechTalks
-12.  [Deep Learning for NLP (without Magic)](http://techtalks.tv/talks/deep-learning-for-nlp-without-magic-part-1/58414/) By Richard Socher (Stanford University) and Christopher D. Manning (Stanford University)
+12.  [Deep Learning for NLP (without Magic)](http://techtalks.tv/talks/deep-learning-for-nlp-without-magic-part-1/58414/) By Richard Socher and Christopher D. Manning (Stanford University)
 
 ### Papers
 
