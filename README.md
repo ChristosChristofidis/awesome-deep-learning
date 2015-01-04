@@ -86,6 +86,9 @@
 10. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 11. [Lecture notes/assignments/solutions/exams from MIT's 'Advanced Natural Language Processing' course] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 12. [Lecture notes/assignments/solutions/exams from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
+13. [Lecture notes/assignments/solutions/exams from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
+14. [Lecture notes/assignments/solutions/exams from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
+
 
 -----
 ### Contributing
