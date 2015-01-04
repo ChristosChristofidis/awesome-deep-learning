@@ -82,6 +82,7 @@
 8.  [Fantastic Torch Tutorial](http://code.cogbits.com/wiki/doku.php)
 9.  [gfx.js](https://github.com/clementfarabet/gfx.js)
 10. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+11. [Lecture Notes from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/lecture-notes/)
 
 -----
 ### Contributing
