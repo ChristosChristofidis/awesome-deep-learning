@@ -30,7 +30,8 @@
 8.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates 
 9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates
 10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun
-11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton on GoogleTechTalks
+11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks
+12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
 
 ### Papers
 
