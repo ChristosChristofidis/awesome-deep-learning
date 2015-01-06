@@ -72,6 +72,7 @@
 5.  [Ccv](http://libccv.org/doc/doc-convnet/)
 6.  [NuPIC](http://numenta.org/nupic.html)
 7.  [DeepLearning4J](http://deeplearning4j.org/)
+8.  [Brain](https://github.com/harthur/brain)
 
 ### Miscellaneous
 
