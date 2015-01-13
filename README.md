@@ -76,6 +76,8 @@
 7.  [DeepLearning4J](http://deeplearning4j.org/)
 8.  [Brain](https://github.com/harthur/brain)
 9.  [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox)
+10.  [Deepnet](https://github.com/nitishsrivastava/deepnet)
+11.  [Deeppy](https://github.com/andersbll/deeppy)
 
 ### Miscellaneous
 
@@ -94,6 +96,7 @@
 13. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
 14. [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
 15. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
+16. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
 
 
 -----
