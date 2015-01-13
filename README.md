@@ -19,7 +19,7 @@
 8.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2015)
 
 
-### Video and Lectures
+### Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
 2.  [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24) By Andrew Ng
