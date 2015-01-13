@@ -48,6 +48,8 @@
 3.  [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 4.  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 5.  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+6.  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
+
 
 
 ### WebSites
@@ -71,6 +73,7 @@
 2.  [Torch7](http://torch.ch/)
 3.  [Theano](http://deeplearning.net/software/theano/)
 4.  [cuda-convnet](https://code.google.com/p/cuda-convnet2/)
+5.  [convetjs](https://github.com/karpathy/convnetjs)
 5.  [Ccv](http://libccv.org/doc/doc-convnet/)
 6.  [NuPIC](http://numenta.org/nupic.html)
 7.  [DeepLearning4J](http://deeplearning4j.org/)
@@ -78,6 +81,10 @@
 9.  [DeepLearnToolbox](https://github.com/rasmusbergpalm/DeepLearnToolbox)
 10.  [Deepnet](https://github.com/nitishsrivastava/deepnet)
 11.  [Deeppy](https://github.com/andersbll/deeppy)
+12.  [JavaNN](https://github.com/ivan-vasilev/neuralnetworks)
+13.  [hebel](https://github.com/hannes-brt/hebel)
+14.  [Mocha.jl](https://github.com/pluskid/Mocha.jl)
+15.  [OpenDL](https://github.com/guoding83128/OpenDL)
 
 ### Miscellaneous
 
