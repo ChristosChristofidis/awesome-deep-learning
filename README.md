@@ -33,6 +33,8 @@
 10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun
 11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks
 12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
+13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
+14.  [Natural Language Processing] (http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
 
 ### Papers
 
@@ -40,6 +42,10 @@
 2.  [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
 3.  [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
 4.  [CMU’s list of papers](http://deeplearning.cs.cmu.edu/)
+5.  [Neural Networks for Named Entity
+Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
+6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
+7. [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
 
 ### Tutorials
 
@@ -52,10 +58,12 @@
 
 
 
+
 ### WebSites
 
 1.  [deeplearning.net](http://deeplearning.net/)
 2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
+3.  [nlp.stanford.edu](http://nlp.stanford.edu/)
 
 ### Datasets
 
@@ -105,6 +113,7 @@
 15. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
 16. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
 17. Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind (https://github.com/kristjankorjus/Replicating-DeepMind)
+
 
 
 -----
