@@ -1,5 +1,5 @@
 
-<img src="http://i.imgur.com/AG5dOFK.jpg" alt="alt text" style="width:100;height:100">
+<img src="http://i.imgur.com/AG5dOFK.jpg" alt="alt text" style="width:20;height:20">
 
 
 ### Free Online Books
