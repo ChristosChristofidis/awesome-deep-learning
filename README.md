@@ -1,3 +1,6 @@
+![monkey](http://i.imgur.com/AG5dOFK.jpg)
+
+
 ### Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (01/01/2015)
