@@ -1,4 +1,5 @@
-![monkey](http://i.imgur.com/AG5dOFK.jpg)
+
+<img src="http://i.imgur.com/AG5dOFK.jpg" alt="alt text" style="width:100;height:100">
 
 
 ### Free Online Books
