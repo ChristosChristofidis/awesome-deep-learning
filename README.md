@@ -73,6 +73,13 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 6.  [eecs.umich.edu/ai/](http://www.eecs.umich.edu/ai/)
 7.  [cs.utexas.edu/users/ai-lab/](http://www.cs.utexas.edu/users/ai-lab/)
 8.  [cs.washington.edu/research/ai/](http://www.cs.washington.edu/research/ai/)
+9.  [aiai.ed.ac.uk/](http://www.aiai.ed.ac.uk/)
+10.  [www-aig.jpl.nasa.gov/](http://www-aig.jpl.nasa.gov/)
+11.  [csail.mit.edu/](http://www.csail.mit.edu/)
+12.  [cgi.cse.unsw.edu.au/~aishare/](http://cgi.cse.unsw.edu.au/~aishare/)
+13.  [cs.rochester.edu/research/ai/](http://www.cs.rochester.edu/research/ai/)
+14.  [ai.sri.com](http://www.ai.sri.com/)
+15.  [isi.edu/AI/isd.htm](http://www.isi.edu/AI/isd.htm)
 
 ### Datasets
 
