@@ -5,6 +5,7 @@
 3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013) 
 4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
 5.  [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
+6.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
  
 ### Courses
 
@@ -80,6 +81,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 13.  [cs.rochester.edu/research/ai/](http://www.cs.rochester.edu/research/ai/)
 14.  [ai.sri.com](http://www.ai.sri.com/)
 15.  [isi.edu/AI/isd.htm](http://www.isi.edu/AI/isd.htm)
+16.  [nrl.navy.mil/itd/aic/](http://www.nrl.navy.mil/itd/aic/)
 
 ### Datasets
 
