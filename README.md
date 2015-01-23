@@ -82,6 +82,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 14.  [ai.sri.com](http://www.ai.sri.com/)
 15.  [isi.edu/AI/isd.htm](http://www.isi.edu/AI/isd.htm)
 16.  [nrl.navy.mil/itd/aic/](http://www.nrl.navy.mil/itd/aic/)
+17.  [hips.seas.harvard.edu/](http://hips.seas.harvard.edu/)
 
 ### Datasets
 
