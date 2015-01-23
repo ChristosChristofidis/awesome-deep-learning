@@ -69,6 +69,10 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 2.  [deeplearning.stanford.edu](http://deeplearning.stanford.edu/)
 3.  [nlp.stanford.edu](http://nlp.stanford.edu/)
 4.  [ai-junkie.com](http://www.ai-junkie.com/ann/evolved/nnt1.html)
+5.  [cs.brown.edu/research/ai/](http://cs.brown.edu/research/ai/)
+6.  [http://www.eecs.umich.edu/ai/](http://www.eecs.umich.edu/ai/)
+7.  [http://www.cs.utexas.edu/users/ai-lab/](http://www.cs.utexas.edu/users/ai-lab/)
+8.  [http://www.cs.washington.edu/research/ai/](http://www.cs.washington.edu/research/ai/)
 
 ### Datasets
 
