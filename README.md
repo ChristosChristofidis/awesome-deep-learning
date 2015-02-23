@@ -134,6 +134,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 14. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
 15. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
 16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind] (https://github.com/kristjankorjus/Replicating-DeepMind)
+17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps](https://github.com/idio/wiki2vec)
 
 
 
