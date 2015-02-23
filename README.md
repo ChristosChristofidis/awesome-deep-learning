@@ -115,6 +115,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 14.  [Mocha.jl](https://github.com/pluskid/Mocha.jl)
 15.  [OpenDL](https://github.com/guoding83128/OpenDL)
 16.  [cuDNN](https://developer.nvidia.com/cuDNN)
+16.  [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
 
 ### Miscellaneous
 
