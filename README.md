@@ -118,6 +118,8 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 16.  [cuDNN](https://developer.nvidia.com/cuDNN)
 17.  [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
 18. [KUnet.jl](https://github.com/denizyuret/KUnet.jl)
+19  [Nvidia DIGITS (a web app based on Caffe)](github.com/NVIDIA/DIGITS)
+
 
 ### Miscellaneous
 
