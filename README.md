@@ -86,6 +86,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 15.  [isi.edu/AI/isd.htm](http://www.isi.edu/AI/isd.htm)
 16.  [nrl.navy.mil/itd/aic](http://www.nrl.navy.mil/itd/aic/)
 17.  [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
+18.  [AI Weekly](http://aiweekly.co)
 
 ### Datasets
 
@@ -122,6 +123,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 18.  [KUnet.jl](https://github.com/denizyuret/KUnet.jl)
 19.  [Nvidia DIGITS - a web app based on Caffe](github.com/NVIDIA/DIGITS)
 20.  [Neon - Python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
+21.  [Keras - Theano based Deep Learning Library](http://keras.io)
 
 
 ### Miscellaneous
