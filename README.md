@@ -69,15 +69,15 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 22.  [Recurrent Neural Network based Language Modeling in Meeting Recognition](http://www.fit.vutbr.cz/~imikolov/rnnlm/ApplicationOfRNNinMeetingRecognition_IS2011.pdf)
 23.  [Deep Neural Networks for Acoustic Modeling in Speech Recognition](http://cs224d.stanford.edu/papers/maas_paper.pdf)
 24.  [Speech Recognition with Deep Recurrent Neural Networks](http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
-25.  Univ. Montreal [[Paper](http://arxiv.org/pdf/1406.1078v3.pdf)]
+25.  [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
 26.  [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
 27. [Google - Sequence to Sequence  Learning with Nneural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-28. [Show, Attend, and Tell: Neural Image Caption Generation with Visual Attention]
+28. [Memory Networks](http://arxiv.org/pdf/1410.3916v10)
 29. [Policy Learning with Continuous Memory States for Partially Observed Robotic Control](http://arxiv.org/pdf/1507.01273v1)
 30. [Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language](http://arxiv.org/pdf/1505.01861v1.pdf)
 31. [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
-32. [Memory Networks](http://arxiv.org/pdf/1410.3916v10)
-33. [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
+
+
 
 
 
