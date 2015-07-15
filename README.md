@@ -127,6 +127,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 21.  [Keras - Theano based Deep Learning Library](http://keras.io)
 22.  [Chainer - A flexible framework of neural networks for deep learning](http://chainer.org/)
 23.  [RNNLM Toolkit](http://rnnlm.org/)
+24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
 
 
 ### Miscellaneous
