@@ -52,6 +52,15 @@
 Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stanford.edu/~socherr/pa4-ner.zip)
 6. [Training tricks by YB](http://www.iro.umontreal.ca/~bengioy/papers/YB-tricks.pdf)
 7. [Geoff Hinton's reading list (all papers)] (http://www.cs.toronto.edu/~hinton/deeprefs.html)
+8. [Supervised Sequence Labelling with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/preprint.pdf)
+9.  [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
+10.  [Training Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
+11.  [Recursive Deep Learning for Natural Language Processing and Computer Vision](http://nlp.stanford.edu/~socherr/thesis.pdf)
+12.  Bi-directional RNN [(http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf)]
+13.  LSTM [(http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)]
+14.  GRU (Gated Recurrent Unit) [[Paper](http://arxiv.org/pdf/1406.1078v3.pdf)]
+15.  GFRNN [(http://arxiv.org/pdf/1502.02367v3.pdf)] [.](http://jmlr.org/proceedings/papers/v37/chung15.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf)
+
 
 ### Tutorials
 
@@ -65,7 +74,6 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 8.  [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 9.  [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
 10.  [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
-
 
 
 
@@ -100,6 +108,12 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 6.  [Flickr Data](http://yahoolabs.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
 7.  [Berkeley Segmentation Dataset 500](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
 8.  [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
+9.  [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
+10. [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/)
+11. [Microsoft COCO](http://mscoco.org/home/)
+12. [VQA](http://www.visualqa.org/)
+13. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
+
 
 
 ### Frameworks
