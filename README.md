@@ -56,10 +56,10 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 9.  [Statistical Language Models based on Neural Networks](http://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf)
 10.  [Training Recurrent Neural Networks](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf)
 11.  [Recursive Deep Learning for Natural Language Processing and Computer Vision](http://nlp.stanford.edu/~socherr/thesis.pdf)
-12.  Bi-directional RNN [(http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf)]
-13.  LSTM [(http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)]
-14.  GRU (Gated Recurrent Unit) [[Paper](http://arxiv.org/pdf/1406.1078v3.pdf)]
-15.  GFRNN [(http://arxiv.org/pdf/1502.02367v3.pdf)] [.](http://jmlr.org/proceedings/papers/v37/chung15.pdf) [.](http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf)
+12.  [Bi-directional RNN](http://www.di.ufpe.br/~fnj/RNA/bibliografia/BRNN.pdf)
+13.  [LSTM](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf)
+14.  [GRU - Gated Recurrent Unit](http://arxiv.org/pdf/1406.1078v3.pdf)
+15.  [GFRNN][(http://arxiv.org/pdf/1502.02367v3.pdf)][.](http://jmlr.org/proceedings/papers/v37/chung15.pdf)[.](http://jmlr.org/proceedings/papers/v37/chung15-supp.pdf)
 
 
 ### Tutorials
