@@ -3,7 +3,7 @@
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (01/01/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
 3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013) 
-4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
+4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)[neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
 5.  [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
 6.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 7.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
@@ -149,6 +149,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps](https://github.com/idio/wiki2vec)
 18. [The original code from the DeepMind article + tweaks](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
 19. [Google deepdream - Neural Network art](https://github.com/google/deepdream)
+20. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
 
 
 
