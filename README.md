@@ -126,6 +126,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 20.  [Neon - Python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
 21.  [Keras - Theano based Deep Learning Library](http://keras.io)
 22.  [Chainer - A flexible framework of neural networks for deep learning](http://chainer.org/)
+23.  [RNNLM Toolkit](http://rnnlm.org/)
 
 
 ### Miscellaneous
