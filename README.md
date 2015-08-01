@@ -123,6 +123,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 21.  [jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
 22.  [visualqa.org](http://www.visualqa.org/)
 23.  [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
+24.  [Deep Learning News](http://news.startup.ml/)
 
 ### Datasets
 
@@ -169,6 +170,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 22.  [Chainer - A flexible framework of neural networks for deep learning](http://chainer.org/)
 23.  [RNNLM Toolkit](http://rnnlm.org/)
 24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
+25.  [char-rnn](https://github.com/karpathy/char-rnn)
 
 
 ### Miscellaneous
