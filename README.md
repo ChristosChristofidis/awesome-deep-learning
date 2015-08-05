@@ -42,7 +42,7 @@
 11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks
 12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
-14.  [Natural Language Processing] (http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
+14.  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
 
 ### Papers
 
