@@ -173,6 +173,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 23.  [RNNLM Toolkit](http://rnnlm.org/)
 24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
 25.  [char-rnn](https://github.com/karpathy/char-rnn)
+26.  [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
 
 
 ### Miscellaneous
