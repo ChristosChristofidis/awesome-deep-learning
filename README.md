@@ -284,7 +284,6 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 4.  [Word2Vec](https://code.google.com/p/word2vec/)
 5.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
 6.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
-7.  [Vision data sets](http://www.cs.cmu.edu/~cil/v-images.html)
 8.  [gfx.js](https://github.com/clementfarabet/gfx.js)
 9. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 10. [Misc from MIT's 'Advanced Natural Language Processing' course] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
