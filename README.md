@@ -196,7 +196,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 93. [ Yichuan Tang ](http://www.cs.toronto.edu/~tang/)
 94. [ Yoshua Bengio ](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 95. [ Yotaro Kubo ](http://www.kecl.ntt.co.jp/icl/signal/member/yotaro/)
-96. [ Youzhi ](Will) Zou (http://ai.stanford.edu/~wzou)
+96. [ Youzhi (Will) Zou](http://ai.stanford.edu/~wzou)
 
 
 ### WebSites
