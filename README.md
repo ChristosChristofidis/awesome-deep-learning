@@ -99,7 +99,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 10.  [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
 11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 
-## People
+## Researchers
 
 1. [Aaron Courville](http://aaroncourville.wordpress.com)
 2. [Abdel-rahman Mohamed](http://www.cs.toronto.edu/~asamir/)
