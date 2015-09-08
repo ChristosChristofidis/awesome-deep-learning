@@ -374,7 +374,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
 25.  [char-rnn](https://github.com/karpathy/char-rnn)
 26.  [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
-
+27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU](https://github.com/dmlc/minerva)
 
 ### Miscellaneous
 
