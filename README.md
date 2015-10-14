@@ -399,6 +399,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 20. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
 21. [A recurrent neural network designed to generate classical music.](https://github.com/hexahedria/biaxial-rnn-music-composition)
 22. [Memory Networks Implementations - Facebook](https://github.com/facebook/MemNN)
+23. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
 
 
 
