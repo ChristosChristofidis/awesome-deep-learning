@@ -377,6 +377,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 25.  [char-rnn](https://github.com/karpathy/char-rnn)
 26.  [MatConvNet: CNNs for MATLAB](https://github.com/vlfeat/matconvnet)
 27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU](https://github.com/dmlc/minerva)
+28.  [Brainstorm - Fast, flexible and fun neural networks.](https://github.com/IDSIA/brainstorm)
 
 ### Miscellaneous
 
@@ -403,6 +404,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 22. [Memory Networks Implementations - Facebook](https://github.com/facebook/MemNN)
 23. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
 24. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
+25. 
 
 
 -----
