@@ -102,6 +102,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 9.  [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
 10.  [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
 11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+12. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 
 ## Researchers
 
