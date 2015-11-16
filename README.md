@@ -19,7 +19,7 @@
 2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) by Geoffrey Hinton in Coursera (2012)
 3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) by Hugo Larochelle from Université de Sherbrooke (2013)
 4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) by CILVR lab @ NYU (2014)
-5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) by Dan Klein and Pieter Abbeel (2013)
+5.  [A.I - Berkeley](https://courses.edx.org/login?next=/courses/BerkeleyX/CS188x_1/1T2013/courseware/) by Dan Klein and Pieter Abbeel (2013)
 6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) by Patrick Henry Winston (2010)
 7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
 8.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2015)
@@ -39,7 +39,7 @@
 5.  [Deep Learning of Representations](https://www.youtube.com/watch?v=4xsVFLnHC_0) by Yoshua bengio
 6.  [Principles of Hierarchical Temporal Memory](https://www.youtube.com/watch?v=6ufPpZDmPKA) by Jeff Hawkins
 7.  [Machine Learning Discussion Group - Deep Learning w/ Stanford AI Lab](https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates
-8.  [Making Sense of the World with Deep Learning](http://vimeo.com/80821560) By Adam Coates 
+8.  [Making Sense of the World with Deep Learning](https://vimeo.com/80821560) By Adam Coates 
 9.  [Demystifying Unsupervised Feature Learning ](https://www.youtube.com/watch?v=wZfVBwOO0-k) By Adam Coates 
 10.  [Visual Perception with Deep Learning](https://www.youtube.com/watch?v=3boKlkPBckA) By Yann LeCun
 11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks
@@ -95,27 +95,26 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
 3.  [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
 4.  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
-5.  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
+5.  [Deep Learning from the Bottom up](https://www.metacademy.org/roadmaps/rgrosse/deep_learning)
 6.  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
 7.  [Neural Networks for Matlab](http://uk.mathworks.com/help/pdf_doc/nnet/nnet_ug.pdf)
 8.  [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 9.  [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
 10.  [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
 11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
-12. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 
 ## Researchers
 
-1. [Aaron Courville](http://aaroncourville.wordpress.com)
+1. [Aaron Courville](https://aaroncourville.wordpress.com/)
 2. [Abdel-rahman Mohamed](http://www.cs.toronto.edu/~asamir/)
-3. [Adam Coates](http://www.stanford.edu/~acoates/)
+3. [Adam Coates](http://web.stanford.edu/~acoates/)
 4. [Alex Acero](http://research.microsoft.com/en-us/people/alexac/)
 5. [ Alex Krizhevsky ](http://www.cs.utoronto.ca/~kriz/index.html)
 6. [ Alexander Ilin ](http://users.ics.aalto.fi/alexilin/)
 7. [ Amos Storkey ](http://homepages.inf.ed.ac.uk/amos/)
-8. [ Andrej Karpathy ](http://cs.stanford.edu/~karpathy/)
-9. [ Andrew M. Saxe ](http://www.stanford.edu/~asaxe/)
-10. [ Andrew Ng ](http://www.cs.stanford.edu/people/ang/)
+8. [ Andrej Karpathy ](http://cs.stanford.edu/people/karpathy/)
+9. [ Andrew M. Saxe ](http://web.stanford.edu/~asaxe/)
+10. [ Andrew Ng ](http://www.andrewng.org/)
 11. [ Andrew W. Senior ](http://research.google.com/pubs/author37792.html)
 12. [ Andriy Mnih ](http://www.gatsby.ucl.ac.uk/~amnih/)
 13. [ Ayse Naz Erkan ](http://www.cs.nyu.edu/~naz/)
@@ -126,7 +125,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 18. [ Brian Kingsbury ](http://researcher.watson.ibm.com/researcher/view.php?person=us-bedk)
 19. [ Christopher Manning ](http://nlp.stanford.edu/~manning/)
 20. [ Clement Farabet ](http://www.clement.farabet.net/)
-21. [ Dan Claudiu Cireșan ](http://www.idsia.ch/~ciresan/)
+21. [ Dan Claudiu Cireșan ](http://people.idsia.ch/~ciresan/)
 22. [ David Reichert ](http://homepages.inf.ed.ac.uk/s0792415/)
 23. [ Derek Rose ](http://mil.engr.utk.edu/nmil/member/5)
 24. [ Dong Yu ](http://research.microsoft.com/en-us/people/dongyu/default.aspx)
@@ -140,9 +139,9 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 32. [ Graham Taylor ](http://www.uoguelph.ca/~gwtaylor/)
 33. [ Grégoire Montavon ](http://gregoire.montavon.name/)
 34. [ Guido Francisco Montúfar ](http://personal-homepages.mis.mpg.de/montufar/)
-35. [ Guillaume Desjardins ](http://brainlogging.wordpress.com/)
+35. [ Guillaume Desjardins ](https://brainlogging.wordpress.com/)
 36. [ Hannes Schulz ](http://www.ais.uni-bonn.de/~schulz/)
-37. [ Hélène Paugam-Moisy ](http://www.lri.fr/~hpaugam/)
+37. [ Hélène Paugam-Moisy ](https://www.lri.fr/~hpaugam/)
 38. [ Honglak Lee ](http://web.eecs.umich.edu/~honglak/)
 39. [ Hugo Larochelle ](http://www.dmi.usherb.ca/~larocheh/index_en.html)
 40. [ Ilya Sutskever ](http://www.cs.toronto.edu/~ilya/)
@@ -153,14 +152,14 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 45. [ Jeff Dean ](http://research.google.com/pubs/jeff.html)
 46. [ Jiquan Mgiam ](http://cs.stanford.edu/~jngiam/)
 47. [ Joseph Turian ](http://www-etud.iro.umontreal.ca/~turian/)
-48. [ Joshua Matthew Susskind ](http://aclab.ca/users/josh/index.html)
-49. [ Jürgen Schmidhuber ](http://www.idsia.ch/~juergen/)
+48. [ Joshua Matthew Susskind ](http://www.aclab.ca)
+49. [ Jürgen Schmidhuber ](http://people.idsia.ch/~juergen/)
 50. [ Justin A. Blanco ](http://www.seas.upenn.edu/~blancoj/labsite.html)
 51. [ Koray Kavukcuoglu ](http://koray.kavukcuoglu.org/)
-52. [ KyungHyun Cho ](http://users.ics.aalto.fi/kcho/)
+52. [ KyungHyun Cho ](http://www.kyunghyuncho.me)
 53. [ Li Deng ](http://research.microsoft.com/en-us/people/deng/)
 54. [ Lucas Theis ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/lucas.html)
-55. [ Ludovic Arnold ](http://www.lri.fr/~arnold/)
+55. [ Ludovic Arnold ](https://www.lri.fr/~arnold/)
 56. [ Marc'Aurelio Ranzato ](http://www.cs.nyu.edu/~ranzato/)
 57. [ Martin Längkvist ](http://aass.oru.se/~mlt/)
 58. [ Misha Denil ](http://www.cs.ubc.ca/~mdenil/)
@@ -170,23 +169,23 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 62. [ Nicolas Le Roux ](http://nicolas.le-roux.name/)
 63. [ Nitish Srivastava ](http://www.cs.toronto.edu/~nitish/)
 64. [ Noel Lopes ](https://www.cisuc.uc.pt/people/show/2028)
-65. [ Oriol Vinyals ](http://www.cs.berkeley.edu/~vinyals/)
-66. [ Pascal Vincent ](http://www.iro.umontreal.ca/~vincentp)
+65. [ Oriol Vinyals ](http://www1.icsi.berkeley.edu/~vinyals/)
+66. [ Pascal Vincent ](http://www-labs.iro.umontreal.ca/~vincentp/)
 67. [ Patrick Nguyen ](http://research.google.com/pubs/PatrickNguyen.html)
 68. [ Pedro Domingos ](http://homes.cs.washington.edu/~pedrod/)
 69. [ Peggy Series ](http://homepages.inf.ed.ac.uk/pseries/)
-70. [ Pierre Sermanet ](http://cs.nyu.edu/~sermanet)
+70. [ Pierre Sermanet ](http://cs.nyu.edu/~sermanet/)
 71. [ Piotr Mirowski ](http://www.cs.nyu.edu/~mirowski/)
 72. [ Quoc V. Le ](http://ai.stanford.edu/~quocle/)
-73. [ Reinhold Scherer ](http://bci.tugraz.at/scherer/)
+73. [ Reinhold Scherer ](https://bci.tugraz.at/people/people/reinhold-scherer/)
 74. [ Richard Socher ](http://www.socher.org/)
 75. [ Rob Fergus ](http://http://cs.nyu.edu/~fergus)
 76. [ Robert Coop ](http://mil.engr.utk.edu/nmil/member/19)
 77. [ Robert Gens ](http://homes.cs.washington.edu/~rcg/)
-78. [ Roger Grosse ](http://people.csail.mit.edu/rgrosse/)
+78. [ Roger Grosse ](http://www.cs.toronto.edu/~rgrosse/)
 79. [ Ronan Collobert ](http://ronan.collobert.com/)
 80. [ Ruslan Salakhutdinov ](http://www.utstat.toronto.edu/~rsalakhu/)
-81. [ Sebastian Gerwinn ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/sgerwinn.html)
+81. [ Sebastian Gerwinn ](http://ei.is.tuebingen.mpg.de/person/sgerwinn)
 82. [ Stéphane Mallat ](http://www.cmap.polytechnique.fr/~mallat/)
 83. [ Sven Behnke ](http://www.ais.uni-bonn.de/behnke/)
 84. [ Tapani Raiko ](http://users.ics.aalto.fi/praiko/)
@@ -194,14 +193,14 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 86. [ Tijmen Tieleman ](http://www.cs.toronto.edu/~tijmen/)
 87. [ Tom Karnowski ](http://mil.engr.utk.edu/nmil/member/36)
 88. [ Tomáš Mikolov ](http://www.fit.vutbr.cz/~imikolov/)
-89. [ Ueli Meier ](http://www.idsia.ch/~meier/)
+89. [ Ueli Meier ](http://people.idsia.ch/~meier/)
 90. [ Vincent Vanhoucke ](http://vincent.vanhoucke.com)
 91. [ Volodymyr Mnih ](http://www.cs.toronto.edu/~vmnih/)
 92. [ Yann LeCun ](http://yann.lecun.com/)
 93. [ Yichuan Tang ](http://www.cs.toronto.edu/~tang/)
 94. [ Yoshua Bengio ](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 95. [ Yotaro Kubo ](http://www.kecl.ntt.co.jp/icl/signal/member/yotaro/)
-96. [ Youzhi (Will) Zou](http://ai.stanford.edu/~wzou)
+96. [ Youzhi (Will) Zou](http://ai.stanford.edu/~wzou/)
 
 
 ### WebSites
@@ -248,8 +247,8 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 13. [Image QA](http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/)
 14. [AT&T Laboratories Cambridge face database](http://www.uk.research.att.com/facedatabase.html)
 15. [AVHRR Pathfinder](http://xtreme.gsfc.nasa.gov)
-16. [Air Freight](http://www.anc.ed.ac.uk/~amos/afreightdata.html) - The Air Freight data set is a ray-traced image sequence along with ground truth segmentation based on textural characteristics. (455 images + GT, each 160x120 pixels). (Formats: PNG)  
-17. [Amsterdam Library of Object Images](http://www.science.uva.nl/~aloi/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
+16. [Air Freight](http://homepages.inf.ed.ac.uk/amos/afreightdata.html) - The Air Freight data set is a ray-traced image sequence along with ground truth segmentation based on textural characteristics. (455 images + GT, each 160x120 pixels). (Formats: PNG)  
+17. [Amsterdam Library of Object Images](http://staff.science.uva.nl/~aloi/) - ALOI is a color image collection of one-thousand small objects, recorded for scientific purposes. In order to capture the sensory variation in object recordings, we systematically varied viewing angle, illumination angle, and illumination color for each object, and additionally captured wide-baseline stereo images. We recorded over a hundred images of each object, yielding a total of 110,250 images for the collection. (Formats: png)
 18. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/) - Most images & annotations are supplemented by various ASM/AAM analyses using the AAM-API. (Formats: bmp,asf)
 19. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)  
 21. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html) - A variety of datasets including geons, objects, and "greebles". Good for testing recognition algorithms. (Formats: pict)
@@ -263,16 +262,16 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 30. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
 31. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html) - A dataset oriented towards computational color constancy, but useful for computer vision in general. It includes synthetic data, camera sensor data, and over 700 images. (Formats: tiff)
 32. [Computational Vision Lab](http://www.cs.sfu.ca/~colour/)
-34. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg) 
+34. [Content-based image retrieval database](http://imagedatabase.cs.washington.edu/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg) 
 35. [Efficient Content-based Retrieval Group](http://www.cs.washington.edu/research/imagedatabase/)
-37. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html) - Densely sampled view spheres - upper half of the view sphere of two toy objects with 2500 images each. (Formats: tiff)
+37. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/cms/de~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html) - Densely sampled view spheres - upper half of the view sphere of two toy objects with 2500 images each. (Formats: tiff)
 38. [Computer Science VII (Graphical Systems)](http://ls7-www.cs.uni-dortmund.de/)
 40. [Digital Embryos](http://vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html) - Digital embryos are novel objects which may be used to develop and test object recognition systems. They have an organic appearance. (Formats: various formats are available on request)
 41. [Univerity of Minnesota Vision Lab](http://vision.psych.umn.edu/www/kersten-lab/kersten-lab.html) 
 42. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com) - Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy. (Formats: jpg, mpg, gif)
 43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm) - Database contains 1002 face images showing subjects at different ages. (Formats: jpg)
 44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/) - FVC2000 is the First International Competition for Fingerprint Verification Algorithms. Four fingerprint databases constitute the FVC2000 benchmark (3520 fingerprints in all).
-45. [Biometric Systems Lab](http://bias.csr.unibo.it/research/biolab) - University of Bologna
+45. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) - University of Bologna
 46. [Face and Gesture images and image sequences](http://www.fg-net.org) - Several image datasets of faces and gestures that are ground truth annotated for benchmarking
 47. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)  
 48. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
@@ -280,10 +279,10 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 51. [ICG Testhouse sequence](http://www.icg.tu-graz.ac.at/~schindler/Data) -  2 turntable sequences from ifferent viewing heights, 36 images each, resolution 1000x750, color (Formats: PPM)
 52. [Institute of Computer Graphics and Vision](http://www.icg.tu-graz.ac.at)
 54. [IEN Image Library](http://www.ien.it/is/vislib/) - 1000+ images, mostly outdoor sequences (Formats: raw, ppm)  
-55. [INRIA's Syntim images database](http://www-rocq.inria.fr/~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)
+55. [INRIA's Syntim images database](https://www.rocq.inria.fr/~tarel/syntim/images.html) - 15 color image of simple objects (Formats: gif)
 56. [INRIA](http://www.inria.fr/)
-57. [INRIA's Syntim stereo databases](http://www-rocq.inria.fr/~tarel/syntim/paires.html) - 34 calibrated color stereo pairs (Formats: gif) 
-58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging/Archives/ImageDataBase/index.html) - Images obtained from a variety of imaging modalities -- raw CFA images, range images and a host of "medical images". (Formats: homebrew)
+57. [INRIA's Syntim stereo databases](https://www.rocq.inria.fr/~tarel/syntim/paires.html) - 34 calibrated color stereo pairs (Formats: gif) 
+58. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging//Archives/ImageDataBase/index.html) - Images obtained from a variety of imaging modalities -- raw CFA images, range images and a host of "medical images". (Formats: homebrew)
 59. [Image Analysis Laboratory](http://www.ece.ncsu.edu/imaging) 
 61. [Image Database](http://www.prip.tuwien.ac.at/prip/image.html) - An image database including some textures  
 62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html) - The JAFFE database consists of 213 images of Japanese female subjects posing 6 basic facial expressions as well as a neutral pose. Ratings on emotion adjectives are also available, free of charge, for research purposes. (Formats: TIFF Grayscale images.) 
@@ -299,18 +298,18 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - High Altitude Imagery from around the world for environmental modeling in support of NASA EOS program (Formats: JPG and HDF)
 73. [NIST Fingerprint and handwriting](ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - datasets - thousands of images (Formats: unknown)
 74. [NIST Fingerprint data](ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - compressed multipart uuencoded tar file 
-75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - Color, CAT and MRI image samples - over 30 images (Formats: jpeg)
-76. [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineerign designs. (Formats: gif,vrml,wrl,stp,sat) 
+75. [NLM HyperDoc Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html) - Color, CAT and MRI image samples - over 30 images (Formats: jpeg)
+76. [National Design Repository](http://edge.cs.drexel.edu/repository/) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineerign designs. (Formats: gif,vrml,wrl,stp,sat) 
 77. [Geometric & Intelligent Computing Laboratory](http://gicl.mcs.drexel.edu) 
 79. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) - several sets of 3D object models collected over several years to use in object recognition research (Formats: homebrew, vrml)
 80. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) - Hundreds of real and synthetic images (Formats: gif, homebrew)
 81. [OSU/SAMPL Database: Range Images, 3D Models, Stills, Motion Sequences](http://sampl.eng.ohio-state.edu/~sampl/database.htm) - Over 1000 range images, 3D object models, still images and motion sequences (Formats: gif, ppm, vrml, homebrew) 
 82. [Signal Analysis and Machine Perception Laboratory](http://sampl.eng.ohio-state.edu)
-84. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/research/vision/Research/OpticalFlow/opticalflow.html) - Synthetic and real sequences with machine-readable ground truth optical flow fields, plus tools to generate ground truth for new sequences. (Formats: ppm,tif,homebrew)
-85. [Vision Research Group](http://www.cs.otago.ac.nz/research/vision/index.html) 
+84. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/graphics/Research/OpticalFlow/opticalflow.html) - Synthetic and real sequences with machine-readable ground truth optical flow fields, plus tools to generate ground truth for new sequences. (Formats: ppm,tif,homebrew)
+85. [Vision Research Group](http://www.cs.otago.ac.nz/graphics/index.html) 
 87. [ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/](ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/) - Real and synthetic image sequences used for testing a Particle Image Velocimetry application. These images may be used for the test of optical flow and image matching algorithms. (Formats: pgm (raw)) 
-88. [LIMSI-CNRS/CHM/IMM/vision](http://www.limsi.fr/Recherche/IMM/PageIMM.html) 
-89. [LIMSI-CNRS](http://www.limsi.fr/)
+88. [LIMSI-CNRS/CHM/IMM/vision](https://archives.limsi.fr/Recherche/IMM/PageIMM.html) 
+89. [LIMSI-CNRS](https://www.limsi.fr/fr/)
 90. [Photometric 3D Surface Texture Database](http://www.taurusstudio.net/research/pmtexdb/index.htm) - This is the first 3D texture database which provides both full real surface rotations and registered photometric stereo data (30 textures, 1680 images). (Formats: TIFF) 
 91. [SEQUENCES FOR OPTICAL FLOW ANALYSIS (SOFA)](http://www.cee.hw.ac.uk/~mtc/sofa) - 9 synthetic sequences designed for testing motion analysis applications, including full ground truth of motion and camera parameters. (Formats: gif)
 92. [Computer Vision Group](http://www.cee.hw.ac.uk/~mtc/research.html)
@@ -319,13 +318,13 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 96. [Stuttgart Range Image Database](http://range.informatik.uni-stuttgart.de) - A collection of synthetic range images taken from high-resolution polygonal models available on the web (Formats: homebrew)
 97. [Department Image Understanding](http://www.informatik.uni-stuttgart.de/ipvr/bv/bv_home_engl.html) 
 99. [The AR Face Database](http://rvl1.ecn.purdue.edu/~aleix/aleix_face_DB.html) - Contains over 4,000 color images corresponding to 126 people's faces (70 men and 56 women). Frontal views with variations in facial expressions, illumination, and occlusions. (Formats: RAW (RGB 24-bit))
-100. [Purdue Robot Vision Lab](http://rvl.www.ecn.purdue.edu/RVL/)
+100. [Purdue Robot Vision Lab](https://engineering.purdue.edu/RVL/)
 101. [The MIT-CSAIL Database of Objects and Scenes](http://web.mit.edu/torralba/www/database.html) - Database for testing multiclass object detection and scene recognition algorithms. Over 72,000 images with 2873 annotated frames. More than 50 annotated object classes. (Formats: jpg)
 102. [The RVL SPEC-DB (SPECularity DataBase)](http://rvl1.ecn.purdue.edu/RVL/specularity_database/) - A collection of over 300 real images of 100 objects taken under three different illuminaiton conditions (Diffuse/Ambient/Directed). -- Use these images to test algorithms for detecting and compensating specular highlights in color images. (Formats: TIFF )
 103. [Robot Vision Laboratory](http://rvl1.ecn.purdue.edu/RVL/)
 105. [The Xm2vts database](http://xm2vtsdb.ee.surrey.ac.uk) - The XM2VTSDB contains four digital recordings of 295 people taken over a period of four months. This database contains both image and video data of faces.
-106. [Centre for Vision, Speech and Signal Processing](http://www.ee.surrey.ac.uk/Research/CVSSP) 
-107. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences) - thousands of frames of digitized traffic image sequences as well as the 'Marbled Block' sequence (grayscale images) (Formats: GIF)
+106. [Centre for Vision, Speech and Signal Processing](http://www.surrey.ac.uk/feps/) 
+107. [Traffic Image Sequences and 'Marbled Block' Sequence](http://i21www.ira.uka.de/image_sequences/) - thousands of frames of digitized traffic image sequences as well as the 'Marbled Block' sequence (grayscale images) (Formats: GIF)
 108. [IAKS/KOGS](http://i21www.ira.uka.de) 
 110. [U Bern Face images](ftp://ftp.iam.unibe.ch/pub/Images/FaceImages) - hundreds of images (Formats: Sun rasterfile)
 111. [U Michigan textures](ftp://freebie.engin.umich.edu/pub/misc/textures) (Formats: compressed raw)
@@ -334,12 +333,12 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 115. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/vislib/directory.html) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
 116. [UNC's 3D image database](ftp://sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - many images (Formats: GIF)
 117. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 image sets (Formats: Sun rasterimage)
-118. [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - contains color images of faces under different illuminants and camera calibration conditions as well as skin spectral reflectance measurements of each person.
-119. [Machine Vision and Media Processing Unit](http://www.ee.oulu.fi/mvmp/)
+118. [University of Oulu Physics-based Face Database](http://www.cse.oulu.fi/CMV/Downloads/Pbfd) - contains color images of faces under different illuminants and camera calibration conditions as well as skin spectral reflectance measurements of each person.
+119. [Machine Vision and Media Processing Unit](http://www.cse.oulu.fi/)
 121. [University of Oulu Texture Database](http://www.outex.oulu.fi) - Database of 320 surface textures, each captured under three illuminants, six spatial resolutions and nine rotation angles. A set of test suites is also provided so that texture segmentation, classification, and retrieval algorithms can be tested in a standard manner. (Formats: bmp, ras, xv)
-122. [Machine Vision Group](http://www.ee.oulu.fi/mvg)
+122. [Machine Vision Group](http://www.cse.oulu.fi/CMV)
 124. [Usenix face database](ftp://ftp.uu.net/published/usenix/faces) - Thousands of face images from many different sites (circa 994)
-125. [View Sphere Database](http://www-prima.inrialpes.fr/Prima/hall/view_sphere.html) - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
+125. [View Sphere Database](https://team.inria.fr/prima/hall/view_sphere.html) - Images of 8 objects seen from many different view points. The view sphere is sampled using a geodesic with 172 images/sphere. Two sets for training and testing are available. (Formats: ppm)
 126. [PRIMA, GRAVIR](http://www-prima.inrialpes.fr/Prima/)
 127. [Vision-list Imagery Archive](ftp://ftp.vislist.com/IMAGERY/) - Many images, many formats
 128. [Wiry Object Recognition Database](http://www.cs.cmu.edu/~owenc/word.htm) - Thousands of images of a cart, ladder, stool, bicycle, chairs, and cluttered scenes with ground truth labelings of edges and regions. (Formats: jpg)
@@ -380,7 +379,6 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU](https://github.com/dmlc/minerva)
 28.  [Brainstorm - Fast, flexible and fun neural networks.](https://github.com/IDSIA/brainstorm)
 29.  [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
-30.  [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK)
 
 ### Miscellaneous
 
@@ -407,16 +405,16 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 22. [Memory Networks Implementations - Facebook](https://github.com/facebook/MemNN)
 23. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
 24. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
-25. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
+25. 
 
 
 -----
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ChristosChristofidis/awesome-deep-learning/pulls). 
 
 -----
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Christos Christofidis](https://linkedin.com/in/Christofidis) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Christos Christofidis](https://www.linkedin.com/in/Christofidis) has waived all copyright and related or neighboring rights to this work.
