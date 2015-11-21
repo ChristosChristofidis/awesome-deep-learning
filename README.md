@@ -412,6 +412,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 24. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
 25. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
 26. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow)
+27. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
 
 
 -----
