@@ -408,6 +408,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 23. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
 24. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
 25. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
+26. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 
 
 -----
