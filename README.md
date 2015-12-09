@@ -47,6 +47,7 @@
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
 14.  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
 15.  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) By Natalie Hammel and Lorraine Yurshansky
+16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford. 
 
 ### Papers
 
