@@ -1,5 +1,30 @@
 # Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+## Table of Contents
+
+* **[Free Online Books](#free-online-books)**  
+
+* **[Courses](#courses)**  
+
+* **[Videos and Lectures](#videos-and-lectures)**  
+
+* **[Papers](#papers)**  
+
+* **[Tutorials](#tutorials)**  
+
+* **[Researchers](#researchers)**  
+
+* **[WebSites](#websites)**  
+
+* **[Datasets](#datasets)**  
+
+* **[Frameworks](#frameworks)**  
+
+* **[Miscellaneous](#miscellaneous)**  
+
+* **[Contributing](#contributing)**  
+
+
 ### Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
@@ -105,6 +130,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 11. [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
 12. [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 13. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
+14. [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
 
 ## Researchers
 
