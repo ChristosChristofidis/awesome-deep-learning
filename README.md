@@ -110,6 +110,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 30. [Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language](http://arxiv.org/pdf/1505.01861v1.pdf)
 31. [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
 32. [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v1.pdf)
+33. [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 
 
 
