@@ -47,13 +47,14 @@
 5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) by Dan Klein and Pieter Abbeel (2013)
 6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) by Patrick Henry Winston (2010)
 7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
-8.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2015)
-9.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
-10.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
-11.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
-12.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
-13.  [Graduate Summer School: Deep Learning, Feature Learning] (https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
-14.  [Deep Learning - Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
+8.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus_winter2015.html) by Fei-Fei Li, Andrej Karpathy (2015)
+9.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2016)
+10.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
+11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
+12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
+13.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
+14.  [Graduate Summer School: Deep Learning, Feature Learning] (https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
+15.  [Deep Learning - Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
 
 
 ### Videos and Lectures
