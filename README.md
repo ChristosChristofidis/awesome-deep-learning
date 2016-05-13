@@ -419,7 +419,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 34.  [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin)
 35.  [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 36.  [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
-37.  [SyntaxNet - Google's syntax parser](https://github.com/tensorflow/models/tree/master/syntaxnet)
+37.  [SyntaxNet - Google's syntactic parser - A TensorFlow dependency library](https://github.com/tensorflow/models/tree/master/syntaxnet)
 
 
 ### Miscellaneous
