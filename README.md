@@ -380,6 +380,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 131. [Yale Face Database](http://cvc.yale.edu/projects/yalefaces/yalefaces.html) -  165 images (15 individuals) with different lighting, expression, and occlusion configurations.
 132. [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html) - 5760 single light source images of 10 subjects each seen under 576 viewing conditions (9 poses x 64 illumination conditions). (Formats: PGM) 
 133. [Center for Computational Vision and Control](http://cvc.yale.edu/)
+134. [DeepMind QA Corpus](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
 
 ### Frameworks
 
