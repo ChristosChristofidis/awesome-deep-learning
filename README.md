@@ -365,7 +365,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 111. [U Michigan textures](ftp://freebie.engin.umich.edu/pub/misc/textures) (Formats: compressed raw)
 112. [U Oulu wood and knots database](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html) - Includes classifications - 1000+ color images (Formats: ppm) 
 113. [UCID - an Uncompressed Colour Image Database](http://vision.doc.ntu.ac.uk/datasets/UCID/ucid.html) - a benchmark database for image retrieval with predefined ground truth. (Formats: tiff) 
-115. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/vislib/directory.html) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
+115. [UMass Vision Image Archive](http://vis-www.cs.umass.edu/~vislib/) - Large image database with aerial, space, stereo, medical images and more. (Formats: homebrew)
 116. [UNC's 3D image database](ftp://sunsite.unc.edu/pub/academic/computer-science/virtual-reality/3d) - many images (Formats: GIF)
 117. [USF Range Image Data with Segmentation Ground Truth](http://marathon.csee.usf.edu/range/seg-comp/SegComp.html) - 80 image sets (Formats: Sun rasterimage)
 118. [University of Oulu Physics-based Face Database](http://www.ee.oulu.fi/research/imag/color/pbfd.html) - contains color images of faces under different illuminants and camera calibration conditions as well as skin spectral reflectance measurements of each person.
