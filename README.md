@@ -429,6 +429,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 38.  [mlpack - A scalable Machine Learning library](http://mlpack.org/)
 39.  [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
 40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
+41.  [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
 
 
 ### Miscellaneous
