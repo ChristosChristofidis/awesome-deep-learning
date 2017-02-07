@@ -143,6 +143,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 13. [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
 14. [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
 15. [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
+16. [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 
 ## Researchers
 
@@ -435,6 +436,8 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 39.  [Torchnet - Torch based Deep Learning Library](https://github.com/torchnet/torchnet)
 40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
 41.  [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
+42.  [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne)
+43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne](https://github.com/dnouri/nolearn)
 
 
 ### Miscellaneous
