@@ -270,6 +270,7 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 22.  [visualqa.org](http://www.visualqa.org/)
 23.  [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
 24.  [Deep Learning News](http://news.startup.ml/)
+25.  [Machine Learning is Fun! Blog](https://medium.com/@ageitgey/)
 
 ### Datasets
 
