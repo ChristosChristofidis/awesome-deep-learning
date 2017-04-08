@@ -62,6 +62,7 @@
 20. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
 21. [UVA Deep Learning Course] (http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
 22. [MIT 6.S094: Deep Learning for Self-Driving Cars] (http://selfdrivingcars.mit.edu/)
+23. [MIT 6.S191: Introduction to Deep Learning] (http://introtodeeplearning.com/)
 
 ### Videos and Lectures
 
