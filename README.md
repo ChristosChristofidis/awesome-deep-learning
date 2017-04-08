@@ -63,6 +63,7 @@
 21. [UVA Deep Learning Course] (http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
 22. [MIT 6.S094: Deep Learning for Self-Driving Cars] (http://selfdrivingcars.mit.edu/)
 23. [MIT 6.S191: Introduction to Deep Learning] (http://introtodeeplearning.com/)
+24. [Berkeley CS 294: Deep Reinforcement Learning] (http://rll.berkeley.edu/deeprlcourse/)
 
 ### Videos and Lectures
 
