@@ -441,7 +441,8 @@
 40.  [Paddle - PArallel Distributed Deep LEarning by Baidu](https://github.com/baidu/paddle)
 41.  [NeuPy - Theano based Python library for ANN and Deep Learning](http://neupy.com)
 42.  [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne)
-43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne](https://github.com/dnouri/nolearn)
+43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne (https://github.com/dnouri/nolearn)
+44.  [Sonnet - a library for constructing neural networks by Google's DeepMind] https://github.com/deepmind/sonnet
 
 
 ### Miscellaneous
