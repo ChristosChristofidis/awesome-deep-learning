@@ -35,6 +35,7 @@
 6.  [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
+9.  [Hierarchical Neural Networks for Image Interpretation](https://www.ais.uni-bonn.de/books/LNCS2766.pdf) by Sven Behnke (2003)
  
 ### Courses
 
