@@ -65,6 +65,7 @@
 23. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
 24. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 25. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
+26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 
 ### Videos and Lectures
 
