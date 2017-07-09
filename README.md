@@ -443,6 +443,7 @@
 42.  [Lasagne - a lightweight library to build and train neural networks in Theano](https://github.com/Lasagne/Lasagne)
 43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne (https://github.com/dnouri/nolearn)
 44.  [Sonnet - a library for constructing neural networks by Google's DeepMind] https://github.com/deepmind/sonnet
+45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration] https://github.com/pytorch/pytorch
 
 
 ### Miscellaneous
