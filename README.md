@@ -127,7 +127,7 @@
 34. [Batch Normalization](https://arxiv.org/abs/1502.03167)
 36. [Residual Learning](https://arxiv.org/pdf/1512.03385v1.pdf)
 37. [Berkeley AI Research (BAIR) Laboratory] Image-to-Image Translation with Conditional Adversarial Networks (https://arxiv.org/pdf/1611.07004v1.pdf) 
-
+38. [Cross Audio-Visual Recognition in the Wild Using Deep Learning]https://arxiv.org/abs/1706.05739)
 
 
 ### Tutorials
