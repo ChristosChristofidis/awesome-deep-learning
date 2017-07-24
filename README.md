@@ -127,7 +127,9 @@
 34. [Batch Normalization](https://arxiv.org/abs/1502.03167)
 36. [Residual Learning](https://arxiv.org/pdf/1512.03385v1.pdf)
 37. [Berkeley AI Research (BAIR) Laboratory] Image-to-Image Translation with Conditional Adversarial Networks (https://arxiv.org/pdf/1611.07004v1.pdf) 
-38. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
+38. [MobileNets by Google] (https://arxiv.org/abs/1704.04861)
+39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning] (https://arxiv.org/abs/1706.05739)
+
 
 
 ### Tutorials
@@ -249,7 +251,10 @@
 93. [ Yichuan Tang ](http://www.cs.toronto.edu/~tang/)
 94. [ Yoshua Bengio ](http://www.iro.umontreal.ca/~bengioy/yoshua_en/index.html)
 95. [ Yotaro Kubo ](http://yota.ro/)
-96. [ Youzhi (Will) Zou](http://ai.stanford.edu/~wzou)
+96. [ Youzhi (Will) Zou ](http://ai.stanford.edu/~wzou)
+97. [ Fei-Fei Li ](http://vision.stanford.edu/feifeili)
+98. [ Ian Goodfellow ](https://research.google.com/pubs/105214.html)
+99. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
 
 
 ### WebSites
