@@ -126,10 +126,10 @@
 33. [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
 34. [Batch Normalization](https://arxiv.org/abs/1502.03167)
 35. [Residual Learning](https://arxiv.org/pdf/1512.03385v1.pdf)
-36. [Image-to-Image Translation with Conditional Adversarial Networks] (https://arxiv.org/pdf/1611.07004v1.pdf) 
-37. [Berkeley AI Research (BAIR) Laboratory] Image-to-Image Translation with Conditional Adversarial Networks (https://arxiv.org/pdf/1611.07004v1.pdf) 
-38. [MobileNets by Google] (https://arxiv.org/abs/1704.04861)
-39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning] (https://arxiv.org/abs/1706.05739)
+36. [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/pdf/1611.07004v1.pdf) 
+37. [Berkeley AI Research (BAIR) Laboratory] Image-to-Image Translation with Conditional Adversarial Networks(https://arxiv.org/pdf/1611.07004v1.pdf) 
+38. [MobileNets by Google](https://arxiv.org/abs/1704.04861)
+39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
 
 
 
