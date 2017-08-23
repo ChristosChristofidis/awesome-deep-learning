@@ -117,7 +117,7 @@
 24.  [Speech Recognition with Deep Recurrent Neural Networks](http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
 25.  [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
 26.  [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
-27. [Google - Sequence to Sequence  Learning with Nneural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+27. [Google - Sequence to Sequence  Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 28. [Memory Networks](http://arxiv.org/pdf/1410.3916v10)
 29. [Policy Learning with Continuous Memory States for Partially Observed Robotic Control](http://arxiv.org/pdf/1507.01273v1)
 30. [Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language](http://arxiv.org/pdf/1505.01861v1.pdf)
