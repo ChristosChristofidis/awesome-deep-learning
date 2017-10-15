@@ -66,6 +66,7 @@
 24. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
 25. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
 26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
+27. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) by Andrew Ng on Coursera (2017)
 
 ### Videos and Lectures
 
