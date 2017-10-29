@@ -455,6 +455,8 @@
 44.  [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet)
 45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
 46.  [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
+47.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2)
+48.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
 
 ### Miscellaneous
 
