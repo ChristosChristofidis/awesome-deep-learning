@@ -130,8 +130,8 @@
 37. [Berkeley AI Research (BAIR) Laboratory](https://arxiv.org/pdf/1611.07004v1.pdf) 
 38. [MobileNets by Google](https://arxiv.org/abs/1704.04861)
 39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
-
-
+40. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
+41. [Matrix Capsules With Em Routing](https://openreview.net/pdf?id=HJWLfGWRb)
 
 ### Tutorials
 
