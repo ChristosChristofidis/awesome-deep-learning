@@ -16,7 +16,9 @@
 
 * **[WebSites](#websites)**  
 
-* **[Datasets](#datasets)**  
+* **[Datasets](#datasets)**
+
+* **[Conferences](#Conferences)**
 
 * **[Frameworks](#frameworks)**  
 
@@ -405,6 +407,20 @@
 134. [DeepMind QA Corpus](https://github.com/deepmind/rc-data) - Textual QA corpus from CNN and DailyMail. More than 300K documents in total. [Paper](http://arxiv.org/abs/1506.03340) for reference.
 135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
 136. [Open Images dataset](https://github.com/openimages/dataset) - Open Images is a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories.
+
+### Conferences
+
+1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
+2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
+3. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
+4. [ICML - 	International Conference on Machine Learning](https://icml.cc)
+5. [ECML - European Conference on Machine Learning](http://www.ecmlpkdd2018.org)
+6. [KDD - Knowledge Discovery and Data Mining](http://www.kdd.org/kdd2018/)
+7. [NIPS - Neural Information Processing Systems](https://nips.cc/Conferences/2018)
+8. [O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
+9. [ICDM - International Conference on Data Mining](https://www.waset.org/conference/2018/07/istanbul/ICDM)
+10. [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
+11. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
 ### Frameworks
 
