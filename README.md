@@ -57,15 +57,14 @@
 16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
 17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Prof. Larry Wasserman
 18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
-19.  [Bay area DL school](http://www.bayareadlschool.org/) by Andrew Ng, Yoshua Bengio, Samy Bengio, Andrej Karpathy, Richard Socher, Hugo Larochelle and many others @ Stanford, CA (2016)
-20. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
-21. [UVA Deep Learning Course](http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
-22. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
-23. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
-24. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
-25. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
-26. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
-27. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
+19. [Designing, Visualizing and Understanding Deep Neural Networks-UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm)
+20. [UVA Deep Learning Course](http://uvadlc.github.io) MSc in Artificial Intelligence for the University of Amsterdam.
+21. [MIT 6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
+22. [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+23. [Berkeley CS 294: Deep Reinforcement Learning](http://rll.berkeley.edu/deeprlcourse/)
+24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
+25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
+26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
 
 ### Videos and Lectures
 
