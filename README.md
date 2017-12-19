@@ -293,6 +293,8 @@
 23.  [www.mpi-inf.mpg.de/departments/computer-vision...](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/)
 24.  [Deep Learning News](http://news.startup.ml/)
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
+26.  [Guide to Machine Learning](http://yerevann.com/a-guide-to-deep-learning/)
+27.  [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
 
 ### Datasets
 
