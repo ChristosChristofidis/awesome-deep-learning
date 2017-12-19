@@ -468,6 +468,7 @@
 44.  [Sonnet - a library for constructing neural networks by Google's DeepMind](https://github.com/deepmind/sonnet)
 45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration](https://github.com/pytorch/pytorch)
 46.  [CNTK - Microsoft Cognitive Toolkit](https://github.com/Microsoft/CNTK)
+47.  [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox](https://github.com/SerpentAI/SerpentAI)
 
 ### Miscellaneous
 
