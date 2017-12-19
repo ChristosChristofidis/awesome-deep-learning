@@ -16,7 +16,9 @@
 
 * **[WebSites](#websites)**  
 
-* **[Datasets](#datasets)**  
+* **[Datasets](#datasets)**
+
+* **[Conferences](#Conferences)**
 
 * **[Frameworks](#frameworks)**  
 
@@ -416,6 +418,20 @@
 137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
 138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. 
 139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
+
+### Conferences
+
+1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
+2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
+3. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
+4. [ICML - 	International Conference on Machine Learning](https://icml.cc)
+5. [ECML - European Conference on Machine Learning](http://www.ecmlpkdd2018.org)
+6. [KDD - Knowledge Discovery and Data Mining](http://www.kdd.org/kdd2018/)
+7. [NIPS - Neural Information Processing Systems](https://nips.cc/Conferences/2018)
+8. [O'Reilly AI Conference - 	O'Reilly Artificial Intelligence Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny)
+9. [ICDM - International Conference on Data Mining](https://www.waset.org/conference/2018/07/istanbul/ICDM)
+10. [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
+11. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
 
 ### Frameworks
 
