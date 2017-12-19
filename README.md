@@ -154,7 +154,11 @@
 15. [Classification on raw time series in TensorFlow with a LSTM RNN](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition)
 16. [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 17. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World)
-18. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
+18. [Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)
+19. [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)
+20. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
+21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
+
 
 
 ## Researchers
