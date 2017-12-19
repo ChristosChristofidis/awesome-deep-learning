@@ -24,7 +24,7 @@
 
 * **[Contributing](#contributing)**  
 
-
+ 
 ### Free Online Books
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
