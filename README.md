@@ -67,6 +67,8 @@
 24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
 25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
+27. [Machine Learning Crash Course with TensorFlow APIs]
+(https://developers.google.com/machine-learning/crash-course/?utm_source=google-ai&utm_medium=card-image&utm_campaign=training-hub&utm_content=ml-crash-course) By Google AI
 
 ### Videos and Lectures
 
@@ -89,8 +91,6 @@
 17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
 18. [NIPS 2016 lecture and workshop videos](https://nips.cc/Conferences/2016/Schedule) - NIPS 2016
 19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018)
-20. [Machine Learning Crash Course with TensorFlow APIs]
-(https://developers.google.com/machine-learning/crash-course/?utm_source=google-ai&utm_medium=card-image&utm_campaign=training-hub&utm_content=ml-crash-course)By Google AI
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
