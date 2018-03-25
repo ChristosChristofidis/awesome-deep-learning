@@ -134,6 +134,7 @@
 39. [Cross Audio-Visual Recognition in the Wild Using Deep Learning](https://arxiv.org/abs/1706.05739)
 40. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 41. [Matrix Capsules With Em Routing](https://openreview.net/pdf?id=HJWLfGWRb)
+42. [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 
 ### Tutorials
 
