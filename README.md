@@ -488,6 +488,7 @@
 47.  [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox](https://github.com/SerpentAI/SerpentAI)
 48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2)
 49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
+50.  [TVM - End to End Deep Learning Compiler Stack for CPUs, GPUs and specialized accelerators](https://tvm.ai/)
 
 ### Miscellaneous
 
