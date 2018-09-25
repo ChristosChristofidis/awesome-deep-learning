@@ -14,13 +14,15 @@
 
 * **[Researchers](#researchers)**  
 
-* **[WebSites](#websites)**  
+* **[Websites](#websites)**  
 
 * **[Datasets](#datasets)**
 
 * **[Conferences](#Conferences)**
 
 * **[Frameworks](#frameworks)**  
+
+* **[Tools](#tools)**  
 
 * **[Miscellaneous](#miscellaneous)**  
 
@@ -490,6 +492,13 @@
 49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
 50.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
 
+### Tools
+
+1.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
+2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
+3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
+4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
+
 ### Miscellaneous
 
 1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
@@ -524,7 +533,6 @@
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 32. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 33. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
-34. [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
 
 -----
 ### Contributing
