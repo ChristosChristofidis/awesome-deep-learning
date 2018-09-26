@@ -423,7 +423,7 @@
 137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) - VOC2012 dataset containing 12k images with 20 annotated classes for object detection and segmentation.
 138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. 
 139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
-
+140. [Overlapping Chromosomes Dataset](https://www.kaggle.com/jeanpat/overlapping-chromosomes/downloads/overlapping-chromosomes.zip) - Contains over 13434 grayscale images of overlapping chromosomes and corresponding segmentation masks of size 94x93 each. 4 classes: background, overalapping region, non-overlapping region of one chromosome, non-overlapping region of second chromosome. 
 ### Conferences
 
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
