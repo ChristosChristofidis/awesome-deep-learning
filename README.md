@@ -490,7 +490,9 @@
 47.  [Serpent.AI - Game agent framework: Use any video game as a deep learning sandbox](https://github.com/SerpentAI/SerpentAI)
 48.  [Caffe2 - A New Lightweight, Modular, and Scalable Deep Learning Framework](https://github.com/caffe2/caffe2)
 49.  [deeplearn.js - Hardware-accelerated deep learning and linear algebra (NumPy) library for the web](https://github.com/PAIR-code/deeplearnjs)
-50.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
+50.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
+51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
+52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
 
 ### Tools
 
@@ -508,7 +510,7 @@
 5.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
 6.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
 8.  [gfx.js](https://github.com/clementfarabet/gfx.js)
-9. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+9.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 10. [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 11. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
 12. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
