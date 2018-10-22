@@ -164,6 +164,8 @@
 20. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
 21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 22. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
+23. [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
+24. [Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
 
 
 
@@ -300,6 +302,7 @@
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
 26.  [Guide to Machine Learning](http://yerevann.com/a-guide-to-deep-learning/)
 27.  [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
+29.  [ahmedbesbes.com](https://ahmedbesbes.com)
 
 ### Datasets
 
