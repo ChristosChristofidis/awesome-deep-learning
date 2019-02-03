@@ -2,7 +2,9 @@
 
 ## Table of Contents
 
-* **[Free Online Books](#free-online-books)**  
+* **[Free Online Books](#free-online-books)**
+
+* **[Books](#books)**
 
 * **[Courses](#courses)**  
 
@@ -40,6 +42,9 @@
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
+
+### Books
+1.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
  
 ### Courses
 
