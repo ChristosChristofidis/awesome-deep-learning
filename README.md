@@ -36,7 +36,7 @@
 3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013) 
 4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
 5.  [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
-6.  [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
+6.  [An introduction to genetic algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
