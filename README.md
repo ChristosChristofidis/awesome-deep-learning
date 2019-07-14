@@ -540,8 +540,11 @@
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 32. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 33. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
-34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
+34. [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
 35. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
+36. [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - Curated list of articles related to scientific research on decision and regression trees.
+37. [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - Curated list of articles related to scientific research on gradient boosting.
+37. [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - Curated list of articles related to scientific research on fraud detection.
 
 -----
 ### Contributing
