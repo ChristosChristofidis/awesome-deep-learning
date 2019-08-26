@@ -498,6 +498,7 @@
 50.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
 51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
+53.  [Neuraxle - A general-purpose ML pipelining framework](https://github.com/Neuraxio/Neuraxle)
 
 ### Tools
 
