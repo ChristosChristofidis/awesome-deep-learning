@@ -505,6 +505,7 @@
 2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
+5. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
 
 ### Miscellaneous
 
