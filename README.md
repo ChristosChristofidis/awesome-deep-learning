@@ -74,6 +74,7 @@
 28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
 29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
 30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
+31.  [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
 
 ### Videos and Lectures
 
