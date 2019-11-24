@@ -40,6 +40,7 @@
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
+10. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
  
 ### Courses
 
@@ -74,6 +75,7 @@
 28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
 29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
 30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
+31. [Deep Learning - UC Berkeley | STAT-157](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW) by Alex Smola and Mu Li (2019)
 
 ### Videos and Lectures
 
@@ -477,7 +479,7 @@
 29.  [Tensorflow - Open source software library for numerical computation using data flow graphs](https://github.com/tensorflow/tensorflow)
 30.  [DMTK - Microsoft Distributed Machine Learning Tookit](https://github.com/Microsoft/DMTK)
 31.  [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow)
-32.  [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/dmlc/mxnet/)
+32.  [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/apache/incubator-mxnet)
 33.  [Veles - Samsung Distributed machine learning platform](https://github.com/Samsung/veles)
 34.  [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework](https://github.com/PrincetonVision/marvin)
 35.  [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
