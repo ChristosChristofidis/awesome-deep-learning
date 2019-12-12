@@ -374,7 +374,7 @@
 73. [NIST Fingerprint and handwriting](ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - datasets - thousands of images (Formats: unknown)
 74. [NIST Fingerprint data](ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - compressed multipart uuencoded tar file 
 75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - Color, CAT and MRI image samples - over 30 images (Formats: jpeg)
-76. [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineerign designs. (Formats: gif,vrml,wrl,stp,sat) 
+76. [National Design Repository](http://www.designrepository.org) - Over 55,000 3D CAD and solid models of (mostly) mechanical/machined engineering designs. (Formats: gif,vrml,wrl,stp,sat) 
 77. [Geometric & Intelligent Computing Laboratory](http://gicl.mcs.drexel.edu) 
 79. [OSU (MSU) 3D Object Model Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/Models/) - several sets of 3D object models collected over several years to use in object recognition research (Formats: homebrew, vrml)
 80. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) - Hundreds of real and synthetic images (Formats: gif, homebrew)
