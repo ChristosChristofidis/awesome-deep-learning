@@ -502,6 +502,7 @@
 51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
 53.  [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage)
+54.  [Detecto - Train and run object detection models with 5-10 lines of code](https://github.com/alankbi/detecto)
 
 ### Tools
 
