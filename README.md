@@ -520,9 +520,10 @@
 2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
-5. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
-6.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
-7.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
+5.  [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for deep learning
+6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
+7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
+8.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
 
 ### Miscellaneous
 
@@ -562,7 +563,6 @@
 35. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
 36. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
 37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
-
 
 -----
 ### Contributing
