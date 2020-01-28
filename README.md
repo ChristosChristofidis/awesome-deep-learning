@@ -508,10 +508,11 @@
 50.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
 51.  [Coach - Reinforcement Learning Coach by Intel® AI Lab](https://github.com/NervanaSystems/coach)
 52.  [albumentations - A fast and framework agnostic image augmentation library](https://github.com/albu/albumentations)
-53.  [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing](https://github.com/catalyst-team/catalyst)
-54.  [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage)
-55.  [Detecto - Train and run object detection models with 5-10 lines of code](https://github.com/alankbi/detecto)
-56.  [Karate Club - An unsupervised machine learning library for graph structured data](https://github.com/benedekrozemberczki/karateclub)
+53.  [Neuraxle - A general-purpose ML pipelining framework](https://github.com/Neuraxio/Neuraxle)
+54.  [Catalyst: High-level utils for PyTorch DL & RL research. It was developed with a focus on reproducibility, fast experimentation and code/ideas reusing](https://github.com/catalyst-team/catalyst)
+55.  [garage - A toolkit for reproducible reinforcement learning research](https://github.com/rlworkgroup/garage)
+56.  [Detecto - Train and run object detection models with 5-10 lines of code](https://github.com/alankbi/detecto)
+57.  [Karate Club - An unsupervised machine learning library for graph structured data](https://github.com/benedekrozemberczki/karateclub)
 
 ### Tools
 
