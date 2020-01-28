@@ -173,6 +173,7 @@
 20. [Deep Learning for Search](https://www.manning.com/books/deep-learning-for-search)
 21. [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 22. [Pytorch Tutorial by Yunjey Choi](https://github.com/yunjey/pytorch-tutorial)
+23. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 
 
 
@@ -309,6 +310,7 @@
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
 26.  [Guide to Machine Learning](http://yerevann.com/a-guide-to-deep-learning/)
 27.  [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
+28.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 
 ### Datasets
 
