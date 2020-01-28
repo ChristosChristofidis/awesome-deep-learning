@@ -451,6 +451,7 @@
 9. [ICDM - International Conference on Data Mining](https://www.waset.org/conference/2018/07/istanbul/ICDM)
 10. [ICCV - International Conference on Computer Vision](http://iccv2017.thecvf.com)
 11. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org)
+12. [MAIS - Montreal AI Symposium](https://montrealaisymposium.wordpress.com/)
 
 ### Frameworks
 
