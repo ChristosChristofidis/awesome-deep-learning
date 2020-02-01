@@ -312,7 +312,8 @@
 25.  [Machine Learning is Fun! Adam Geitgey's Blog](https://medium.com/@ageitgey/)
 26.  [Guide to Machine Learning](http://yerevann.com/a-guide-to-deep-learning/)
 27.  [Deep Learning for Beginners](https://spandan-madan.github.io/DeepLearningProject/)
-28.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
+28.  [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
+29.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 
 ### Datasets
 
