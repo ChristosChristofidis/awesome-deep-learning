@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-* **[Free Online Books](#free-online-books)**
-
 * **[Books](#books)**
 
 * **[Courses](#courses)**  
@@ -31,7 +29,7 @@
 * **[Contributing](#contributing)**  
 
 
-### Free Online Books
+### Books
 
 1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
@@ -86,6 +84,7 @@
 35. [Deep Learning from the Foundations](https://course.fast.ai/part2) Jeremy Howard - Fast.ai
 36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
 37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) by Beau Carnes (2018)
+38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
 
 ### Videos and Lectures
 
@@ -288,6 +287,7 @@
 97. [ Fei-Fei Li ](http://vision.stanford.edu/feifeili)
 98. [ Ian Goodfellow ](https://research.google.com/pubs/105214.html)
 99. [ Robert Laganière ](http://www.site.uottawa.ca/~laganier/)
+100. [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/)
 
 
 ### WebSites
