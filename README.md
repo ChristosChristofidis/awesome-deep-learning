@@ -529,6 +529,8 @@
 57.  [Karate Club - An unsupervised machine learning library for graph structured data](https://github.com/benedekrozemberczki/karateclub)
 58.  [Synapses - A lightweight library for neural networks that runs anywhere](https://github.com/mrdimosthenis/Synapses)
 59.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
+60.  [Hopsworks - A Feature Store for ML and Data-Intensive AI](https://github.com/logicalclocks/hopsworks)
+61.  [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast)
 
 ### Tools
 
