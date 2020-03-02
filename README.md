@@ -369,7 +369,7 @@
 42. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com) - Images and Videos of his-res of studies taken from Gastrointestinal Video endoscopy. (Formats: jpg, mpg, gif)
 43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm) - Database contains 1002 face images showing subjects at different ages. (Formats: jpg)
 44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/) - FVC2000 is the First International Competition for Fingerprint Verification Algorithms. Four fingerprint databases constitute the FVC2000 benchmark (3520 fingerprints in all).
-45. [Biometric Systems Lab](http://bias.csr.unibo.it/research/biolab) - University of Bologna
+45. [Biometric Systems Lab](http://biolab.csr.unibo.it/home.asp) - University of Bologna
 46. [Face and Gesture images and image sequences](http://www.fg-net.org) - Several image datasets of faces and gestures that are ground truth annotated for benchmarking
 47. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html) - The database contains 35 gestures and consists of 1400 image sequences that contain gestures of 20 different persons recorded under non-uniform daylight lighting conditions. (Formats: mpg,jpg)  
 48. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
