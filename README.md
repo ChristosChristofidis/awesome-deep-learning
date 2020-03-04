@@ -185,7 +185,8 @@
 24. [Overview and benchmark of traditional and deep learning models in text classification](https://ahmedbesbes.com/overview-and-benchmark-of-traditional-and-deep-learning-models-in-text-classification.html)
 25. [Hardware for AI: Understanding computer hardware & build your own computer](https://github.com/MelAbgrall/HardwareforAI)
 26. [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
-
+27. [The Illustrated Self-Supervised Learning](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
+28. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 
 
 
@@ -327,6 +328,7 @@
 30.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
+33.  [amitness.com](https://amitness.com/)
 
 ### Datasets
 
@@ -583,6 +585,7 @@
 37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
 38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
 39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
+40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
 
 
 -----
