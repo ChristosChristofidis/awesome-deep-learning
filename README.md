@@ -1,4 +1,4 @@
-# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -155,6 +155,8 @@
 40. [Dynamic Routing Between Capsules](https://arxiv.org/abs/1710.09829)
 41. [Matrix Capsules With Em Routing](https://openreview.net/pdf?id=HJWLfGWRb)
 42. [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+43. [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf)
+44. [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
 
 ### Tutorials
 
