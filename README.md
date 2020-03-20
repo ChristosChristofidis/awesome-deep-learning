@@ -331,6 +331,7 @@
 31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
 32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
 33.  [amitness.com](https://amitness.com/)
+34.  [AI Summer](https://theaisummer.com/)
 
 ### Datasets
 
