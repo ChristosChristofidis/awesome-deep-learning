@@ -590,6 +590,7 @@
 38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
 39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
 40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
+41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 
 -----
