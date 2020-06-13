@@ -157,6 +157,10 @@
 42. [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 43. [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf)
 44. [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+45. [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
+46. [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+47. [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
+48. [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
 
 ### Tutorials
 
