@@ -110,6 +110,7 @@
 19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018)
 20. [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) By Oliver Zeigermann
 21. [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion): a live video course that teaches how to apply deep learning to text and images using the powerful Keras library and its R language interface.
+22. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) : End part focuses on deep learning By Andrew Ng
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
