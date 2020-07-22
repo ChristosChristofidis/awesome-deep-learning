@@ -333,6 +333,7 @@
 32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
 33.  [amitness.com](https://amitness.com/)
 34.  [AI Summer](https://theaisummer.com/)
+35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
 
 ### Datasets
 
