@@ -333,6 +333,7 @@
 32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
 33.  [amitness.com](https://amitness.com/)
 34.  [AI Summer](https://theaisummer.com/)
+35.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 
 ### Datasets
 
@@ -548,6 +549,7 @@
 6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
 7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
 8.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
+9.  [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and links to code implementations for ML papers anywhere online: Google, Twitter, Arxiv, Scholar, etc.
 
 ### Miscellaneous
 
