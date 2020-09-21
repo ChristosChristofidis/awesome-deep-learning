@@ -341,10 +341,11 @@
 29.  [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
 30.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
-32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
+32.  [ahmedbesbes.com](http://ahmedbesbes.com)
 33.  [amitness.com](https://amitness.com/)
 34.  [AI Summer](https://theaisummer.com/)
-35.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
+35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
+36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 
 ### Datasets
 
