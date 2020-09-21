@@ -42,7 +42,8 @@
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
 10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
-12. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
+12. [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) - A book for optimization techniques during production.
+13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 
  
 ### Courses
@@ -86,6 +87,7 @@
 36. [Deep Reinforcement Learning (nanodegree) - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893) a 3-6 month Udacity nanodegree, spanning multiple courses (2018)
 37. [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion) by Beau Carnes (2018)
 38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
+39. [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) List of Deep Learning online courses (some are free) from Classpert Online Course Search
 
 ### Videos and Lectures
 
@@ -110,6 +112,11 @@
 19. [Deep Learning Crash Course](https://www.youtube.com/watch?v=oS5fz_mHVz0&list=PLWKotBjTDoLj3rXBL-nEIPRN9V3a9Cx07): a series of mini-lectures by Leo Isikdogan on YouTube (2018)
 20. [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) By Oliver Zeigermann
 21. [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion): a live video course that teaches how to apply deep learning to text and images using the powerful Keras library and its R language interface.
+22. [Medical Imaging with Deep Learning Tutorial](https://www.youtube.com/playlist?list=PLheiZMDg_8ufxEx9cNVcOYXsT3BppJP4b): This tutorial is styled as a graduate lecture about medical imaging with deep learning. This will cover the background of popular medical image domains (chest X-ray and histology) as well as methods to tackle multi-modality/view, segmentation, and counting tasks.
+23. [Deepmind x UCL Deeplearning](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF): 2020 version 
+24. [Deepmind x UCL Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb): Deep Reinforcement Learning
+25. [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) Course: 11-785, Intro to Deep Learning by Bhiksha Raj 
+26. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) : End part focuses on deep learning By Andrew Ng
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
@@ -158,6 +165,10 @@
 42. [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
 43. [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf)
 44. [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf)
+45. [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/pdf/1503.03832.pdf)
+46. [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+47. [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
+48. [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
 
 ### Tutorials
 
@@ -330,10 +341,11 @@
 29.  [ML Compiled](https://ml-compiled.readthedocs.io/en/latest/)
 30.  [Programming Community Curated Resources](https://hackr.io/tutorials/learn-artificial-intelligence-ai)
 31.  [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/)
-32.  [ahmedbesbes.com)(http://ahmedbesbes.com)
+32.  [ahmedbesbes.com](http://ahmedbesbes.com)
 33.  [amitness.com](https://amitness.com/)
 34.  [AI Summer](https://theaisummer.com/)
 35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
+36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 
 ### Datasets
 
@@ -393,7 +405,7 @@
 62. [JAFFE Facial Expression Image Database](http://www.mis.atr.co.jp/~mlyons/jaffe.html) - The JAFFE database consists of 213 images of Japanese female subjects posing 6 basic facial expressions as well as a neutral pose. Ratings on emotion adjectives are also available, free of charge, for research purposes. (Formats: TIFF Grayscale images.)
 63. [ATR Research, Kyoto, Japan](http://www.mic.atr.co.jp/)
 64. [JISCT Stereo Evaluation](ftp://ftp.vislist.com/IMAGERY/JISCT/) - 44 image pairs. These data have been used in an evaluation of stereo analysis, as described in the April 1993 ARPA Image Understanding Workshop paper ``The JISCT Stereo Evaluation'' by R.C.Bolles, H.H.Baker, and M.J.Hannah, 263--274 (Formats: SSI)
-65. [MIT Vision Texture](http://www-white.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - Image archive (100+ images) (Formats: ppm)
+65. [MIT Vision Texture](https://vismod.media.mit.edu/vismod/imagery/VisionTexture/vistex.html) - Image archive (100+ images) (Formats: ppm)
 66. [MIT face images and more](ftp://whitechapel.media.mit.edu/pub/images) - hundreds of images (Formats: homebrew)
 67. [Machine Vision](http://vision.cse.psu.edu/book/testbed/images/) - Images from the textbook by Jain, Kasturi, Schunck (20+ images) (Formats: GIF TIFF)
 68. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html) - 100 or more images of mammograms with ground truth. Additional images available by request, and links to several other mammography databases are provided. (Formats: homebrew)
@@ -538,6 +550,7 @@
 59.  [TensorForce - A TensorFlow library for applied reinforcement learning](https://github.com/reinforceio/tensorforce)
 60.  [Hopsworks - A Feature Store for ML and Data-Intensive AI](https://github.com/logicalclocks/hopsworks)
 61.  [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast)
+62.  [PyTorch Geometric Temporal - Representation learning on dynamic graphs](https://github.com/gojek/feast)
 
 ### Tools
 
@@ -549,6 +562,7 @@
 6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
 7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
 8.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
+9.  [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and links to code implementations for ML papers anywhere online: Google, Twitter, Arxiv, Scholar, etc.
 
 ### Miscellaneous
 
@@ -591,6 +605,7 @@
 38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
 39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
 40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
+41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 
 -----
