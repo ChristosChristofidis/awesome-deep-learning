@@ -213,7 +213,7 @@
 5. [ Alex Krizhevsky ](http://www.cs.utoronto.ca/~kriz/index.html)
 6. [ Alexander Ilin ](http://users.ics.aalto.fi/alexilin/)
 7. [ Amos Storkey ](http://homepages.inf.ed.ac.uk/amos/)
-8. [ Andrej Karpathy ](http://cs.stanford.edu/~karpathy/)
+8. [ Andrej Karpathy ](https://karpathy.ai/)
 9. [ Andrew M. Saxe ](http://www.stanford.edu/~asaxe/)
 10. [ Andrew Ng ](http://www.cs.stanford.edu/people/ang/)
 11. [ Andrew W. Senior ](http://research.google.com/pubs/author37792.html)
