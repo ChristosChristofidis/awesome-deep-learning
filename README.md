@@ -44,7 +44,7 @@
 11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
 12. [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) - A book for optimization techniques during production.
 13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
-
+14. [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara
  
 ### Courses
 
