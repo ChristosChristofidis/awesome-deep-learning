@@ -551,6 +551,7 @@
 60.  [Hopsworks - A Feature Store for ML and Data-Intensive AI](https://github.com/logicalclocks/hopsworks)
 61.  [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast)
 62.  [PyTorch Geometric Temporal - Representation learning on dynamic graphs](https://github.com/gojek/feast)
+63.  [lightly - A computer vision framework for self-supervised learning](https://github.com/lightly-ai/lightly)
 
 ### Tools
 
