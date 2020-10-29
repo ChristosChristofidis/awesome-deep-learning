@@ -606,7 +606,7 @@
 39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
 40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
 41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-
+42. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 
 -----
 ### Contributing
