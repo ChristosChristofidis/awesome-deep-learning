@@ -89,6 +89,8 @@
 38. [Face Detection with Computer Vision and Deep Learning](https://www.udemy.com/share/1000gAA0QdcV9aQng=/) by Hakan Cebeci
 39. [Deep Learning Online Course list at Classpert](https://classpert.com/deep-learning) List of Deep Learning online courses (some are free) from Classpert Online Course Search
 40. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
+41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
+42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
 
 ### Videos and Lectures
 
@@ -214,7 +216,7 @@
 5. [ Alex Krizhevsky ](http://www.cs.utoronto.ca/~kriz/index.html)
 6. [ Alexander Ilin ](http://users.ics.aalto.fi/alexilin/)
 7. [ Amos Storkey ](http://homepages.inf.ed.ac.uk/amos/)
-8. [ Andrej Karpathy ](http://cs.stanford.edu/~karpathy/)
+8. [ Andrej Karpathy ](https://karpathy.ai/)
 9. [ Andrew M. Saxe ](http://www.stanford.edu/~asaxe/)
 10. [ Andrew Ng ](http://www.cs.stanford.edu/people/ang/)
 11. [ Andrew W. Senior ](http://research.google.com/pubs/author37792.html)
@@ -564,6 +566,8 @@
 7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
 8.  [Neptune](https://neptune.ml/) - Lightweight tool for experiment tracking and results visualization. 
 9.  [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and links to code implementations for ML papers anywhere online: Google, Twitter, Arxiv, Scholar, etc.
+10. [Determined](https://github.com/determined-ai/determined) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
+11. [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
 
 ### Miscellaneous
 
