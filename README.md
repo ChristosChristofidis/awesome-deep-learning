@@ -205,8 +205,15 @@
 27. [The Illustrated Self-Supervised Learning](https://amitness.com/2020/02/illustrated-self-supervised-learning/)
 28. [Visual Paper Summary: ALBERT (A Lite BERT)](https://amitness.com/2020/02/albert-visual-summary/)
 28. [Semi-Supervised Deep Learning with GANs for Melanoma Detection](https://www.manning.com/liveproject/semi-supervised-deep-learning-with-gans-for-melanoma-detection/)
-
-
+29. [Named Entity Recognition using Reformers](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/NER%20using%20Reformer.ipynb)
+30. [Deep N-Gram Models on Shakespeare’s works](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/NLP/Deep%20N-Gram.ipynb)
+31. [Wide Residual Networks](https://github.com/SauravMaheshkar/Trax-Examples/blob/main/vision/illustrated-wideresnet.ipynb)
+32. [Fashion MNIST using Flax](https://github.com/SauravMaheshkar/Flax-Examples)
+33. [Fake News Classification (with streamlit deployment)](https://github.com/SauravMaheshkar/Fake-News-Classification)
+34. [Regression Analysis for Primary Biliary Cirrhosis](https://github.com/SauravMaheshkar/CoxPH-Model-for-Primary-Biliary-Cirrhosis)
+35. [Cross Matching Methods for Astronomical Catalogs](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs)
+36. [Named Entity Recognition using BiDirectional LSTMs](https://github.com/SauravMaheshkar/Named-Entity-Recognition-)
+37. [Image Recognition App using Tflite and Flutter](https://github.com/SauravMaheshkar/Flutter_Image-Recognition)
 
 ## Researchers
 
@@ -350,6 +357,7 @@
 34.  [AI Summer](https://theaisummer.com/)
 35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
 36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
+37.  [The Epic Code](https://theepiccode.com/)
 
 ### Datasets
 
@@ -556,6 +564,9 @@
 61.  [Feast - A Feature Store for ML for GCP by Gojek/Google](https://github.com/gojek/feast)
 62.  [PyTorch Geometric Temporal - Representation learning on dynamic graphs](https://github.com/gojek/feast)
 63.  [lightly - A computer vision framework for self-supervised learning](https://github.com/lightly-ai/lightly)
+64.  [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax)
+65.  [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax)
+66.  [QuickVision](https://github.com/Quick-AI/quickvision)
 
 ### Tools
 
