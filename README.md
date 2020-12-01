@@ -91,6 +91,7 @@
 40. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
 41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
 42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
+43. [Deploying a Deep Learning Model on Web and Mobile Applications Using TensorFlow](https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow) by Reshama Shaikh & Nidhin Pattaniyil (2020) - A 3-4 week Manning live project with templates available 
 
 ### Videos and Lectures
 
