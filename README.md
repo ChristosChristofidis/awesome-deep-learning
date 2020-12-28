@@ -581,6 +581,7 @@
 9.  [CatalyzeX](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) - Browser extension ([Chrome](https://chrome.google.com/webstore/detail/code-finder-for-research/aikkeehnlfpamidigaffhfmgbkdeheil) and [Firefox](https://addons.mozilla.org/en-US/firefox/addon/code-finder-catalyzex/)) that automatically finds and links to code implementations for ML papers anywhere online: Google, Twitter, Arxiv, Scholar, etc.
 10. [Determined](https://github.com/determined-ai/determined) - Deep learning training platform with integrated support for distributed training, hyperparameter tuning, smart GPU scheduling, experiment tracking, and a model registry.
 11. [DAGsHub](https://dagshub.com/) - Community platform for Open Source ML – Manage experiments, data & models and create collaborative ML projects easily.
+12. [lakeFS](https://github.com/treeverse/lakeFS) - Repeatable, atomic and versioned data lake on top of object storage.
 
 ### Miscellaneous
 
