@@ -91,7 +91,7 @@
 40. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
 41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
 42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
-
+43. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
 ### Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
