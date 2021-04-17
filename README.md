@@ -339,7 +339,7 @@
 16.  [nrl.navy.mil/itd/aic](http://www.nrl.navy.mil/itd/aic/)
 17.  [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
 18.  [AI Weekly](http://aiweekly.co)
-19.  [stat.ucla.edu](http://www.stat.ucla.edu/~junhua.mao/m-RNN.html)
+19.  [stat.ucla.edu](http://statistics.ucla.edu/)
 20.  [deeplearning.cs.toronto.edu](http://deeplearning.cs.toronto.edu/i2t)
 21.  [jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
 22.  [visualqa.org](http://www.visualqa.org/)
