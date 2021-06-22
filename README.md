@@ -567,6 +567,7 @@
 64.  [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax)
 65.  [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax)
 66.  [QuickVision](https://github.com/Quick-AI/quickvision)
+67.  [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ### Tools
 
