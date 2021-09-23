@@ -482,6 +482,8 @@
 138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
 140. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
+141. [LLVIP](https://github.com/bupt-ai-cz/LLVIP) - 15488 visible-infrared paired images (30976 images) for low-light vision research, [Project_Page](https://bupt-ai-cz.github.io/LLVIP/)
+142. [MSDA](https://github.com/bupt-ai-cz/Meta-SelfLearning) - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
 
 ### Conferences
 
