@@ -49,6 +49,7 @@
 16. [Deep Learning Patterns and Practices](https://www.manning.com/books/deep-learning-patterns-and-practices) - by Andrew Ferlitsch
 17. [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) - by Edward Raff
 18. [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - by François Chollet
+19. [Evolutionary Deep Learning](https://www.manning.com/books/evolutionary-deep-learning) - by Micheal Lanham
  
 ### Courses
 
@@ -124,6 +125,15 @@
 24. [Deepmind x UCL Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb): Deep Reinforcement Learning
 25. [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) Course: 11-785, Intro to Deep Learning by Bhiksha Raj 
 26. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) : End part focuses on deep learning By Andrew Ng
+27. [What is Neural Structured Learning by Andrew Ferlitsch](https://youtu.be/LXWSE_9gHd0)
+28. [Deep Learning Design Patterns by Andrew Ferlitsch](https://youtu.be/_DaviS6K0Vc)
+29. [Architecture of a Modern CNN: the design pattern approach by Andrew Ferlitsch](https://youtu.be/QCGSS3kyGo0)
+30. [Metaparameters in a CNN by Andrew Ferlitsch](https://youtu.be/K1PLeggQ33I)
+31. [Multi-task CNN: a real-world example by Andrew Ferlitsch](https://youtu.be/dH2nuI-1-qM)
+32. [A friendly introduction to deep reinforcement learning by Luis Serrano](https://youtu.be/1FyAh07jh0o)
+33. [What are GANs and how do they work? by Edward Raff](https://youtu.be/f6ivp84qFUc)
+34. [Coding a basic WGAN in PyTorch by Edward Raff](https://youtu.be/7VRdaqMDalQ)
+35. [Training a Reinforcement Learning Agent by Miguel Morales](https://youtu.be/8TMT-gHlj_Q)
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
