@@ -358,6 +358,7 @@
 35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
 36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 37.  [The Epic Code](https://theepiccode.com/)
+38.  [all AI news](https://allainews.com/)
 
 ### Datasets
 
