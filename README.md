@@ -50,6 +50,7 @@
 17. [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) - by Edward Raff
 18. [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - by François Chollet
 19. [Evolutionary Deep Learning](https://www.manning.com/books/evolutionary-deep-learning) - by Micheal Lanham
+20. [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms) - by Chi Wang and Donald Szeto
  
 ### Courses
 
