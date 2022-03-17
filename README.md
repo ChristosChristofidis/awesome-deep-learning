@@ -567,6 +567,7 @@
 64.  [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax)
 65.  [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax)
 66.  [QuickVision](https://github.com/Quick-AI/quickvision)
+67.  [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI)
 
 ### Tools
 
