@@ -570,7 +570,8 @@
 
 ### Tools
 
-1.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
+1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+2.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
 2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
