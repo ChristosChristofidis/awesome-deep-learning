@@ -487,6 +487,8 @@
 139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
 140. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
 141. [SANAD: Single-Label Arabic News Articles Dataset for Automatic Text Categorization](https://data.mendeley.com/datasets/57zpx667y9/2) - SANAD Dataset is a large collection of Arabic news articles that can be used in different Arabic NLP tasks such as Text Classification and Word Embedding. The articles were collected using Python scripts written specifically for three popular news websites: AlKhaleej, AlArabiya and Akhbarona. 
+142. [Referit3D](https://referit3d.github.io) - Two large-scale and complementary visio-linguistic datasets (aka Nr3D and Sr3D) for identifying fine-grained 3D objects in ScanNet scenes. Nr3D contains 41.5K natural, free-form utterances, and Sr3d contains 83.5K template-based utterances.
+
 ### Conferences
 
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
