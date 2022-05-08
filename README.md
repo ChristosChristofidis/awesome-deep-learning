@@ -40,11 +40,17 @@
 7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
 8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
 9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
-10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
+10. [Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
 11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
 12. [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) - A book for optimization techniques during production.
 13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
 14. [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara
+15. [Deep Learning for Natural Language Processing](https://www.manning.com/books/deep-learning-for-natural-language-processing) - by Stephan Raaijmakers
+16. [Deep Learning Patterns and Practices](https://www.manning.com/books/deep-learning-patterns-and-practices) - by Andrew Ferlitsch
+17. [Inside Deep Learning](https://www.manning.com/books/inside-deep-learning) - by Edward Raff
+18. [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) - by François Chollet
+19. [Evolutionary Deep Learning](https://www.manning.com/books/evolutionary-deep-learning) - by Micheal Lanham
+20. [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms) - by Chi Wang and Donald Szeto
  
 ### Courses
 
@@ -91,7 +97,8 @@
 40. [AWS Machine Learning](https://aws.training/machinelearning) Machine Learning and Deep Learning Courses from Amazon's Machine Learning unviersity
 41. [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188) - A great introductory course on Deep Learning by Udacity and Facebook AI
 42. [Deep Learning by Kaggle](https://www.kaggle.com/learn/deep-learning) - Kaggle's  free course on Deep Learning
-
+43. [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) - DS-GA 1008 · SPRING 2021 
+44. [Neural Networks and Deep Learning](https://webcms3.cse.unsw.edu.au/COMP9444/19T3/) - COMP9444 19T3
 ### Videos and Lectures
 
 1.  [How To Create A Mind](https://www.youtube.com/watch?v=RIkxVci-R4k) By Ray Kurzweil
@@ -120,6 +127,15 @@
 24. [Deepmind x UCL Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb): Deep Reinforcement Learning
 25. [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) Course: 11-785, Intro to Deep Learning by Bhiksha Raj 
 26. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) : End part focuses on deep learning By Andrew Ng
+27. [What is Neural Structured Learning by Andrew Ferlitsch](https://youtu.be/LXWSE_9gHd0)
+28. [Deep Learning Design Patterns by Andrew Ferlitsch](https://youtu.be/_DaviS6K0Vc)
+29. [Architecture of a Modern CNN: the design pattern approach by Andrew Ferlitsch](https://youtu.be/QCGSS3kyGo0)
+30. [Metaparameters in a CNN by Andrew Ferlitsch](https://youtu.be/K1PLeggQ33I)
+31. [Multi-task CNN: a real-world example by Andrew Ferlitsch](https://youtu.be/dH2nuI-1-qM)
+32. [A friendly introduction to deep reinforcement learning by Luis Serrano](https://youtu.be/1FyAh07jh0o)
+33. [What are GANs and how do they work? by Edward Raff](https://youtu.be/f6ivp84qFUc)
+34. [Coding a basic WGAN in PyTorch by Edward Raff](https://youtu.be/7VRdaqMDalQ)
+35. [Training a Reinforcement Learning Agent by Miguel Morales](https://youtu.be/8TMT-gHlj_Q)
 
 ### Papers
 *You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
@@ -172,6 +188,8 @@
 46. [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 47. [Unsupervised Translation of Programming Languages](https://arxiv.org/pdf/2006.03511.pdf)
 48. [Matching Networks for One Shot Learning](http://papers.nips.cc/paper/6385-matching-networks-for-one-shot-learning.pdf)
+49. [VOLO: Vision Outlooker for Visual Recognition](https://arxiv.org/pdf/2106.13112.pdf)
+50. [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
 
 ### Tutorials
 
@@ -358,6 +376,7 @@
 35.  [AI Hub - supported by AAAI, NeurIPS](https://aihub.org/)
 36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 37.  [The Epic Code](https://theepiccode.com/)
+38.  [all AI news](https://allainews.com/)
 
 ### Datasets
 
@@ -482,6 +501,8 @@
 138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) - MNIST like fashion product dataset consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes.
 139. [Large-scale Fashion (DeepFashion) Database](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html) - Contains over 800,000 diverse fashion images.  Each image in this dataset is labeled with 50 categories, 1,000 descriptive attributes, bounding box and clothing landmarks
 140. [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus) - Contains about 10 million news articles classified using [opensources.co](http://opensources.co) types
+141. [SANAD: Single-Label Arabic News Articles Dataset for Automatic Text Categorization](https://data.mendeley.com/datasets/57zpx667y9/2) - SANAD Dataset is a large collection of Arabic news articles that can be used in different Arabic NLP tasks such as Text Classification and Word Embedding. The articles were collected using Python scripts written specifically for three popular news websites: AlKhaleej, AlArabiya and Akhbarona. 
+142. [Referit3D](https://referit3d.github.io) - Two large-scale and complementary visio-linguistic datasets (aka Nr3D and Sr3D) for identifying fine-grained 3D objects in ScanNet scenes. Nr3D contains 41.5K natural, free-form utterances, and Sr3d contains 83.5K template-based utterances.
 
 ### Conferences
 
@@ -567,13 +588,15 @@
 64.  [Trax — Deep Learning with Clear Code and Speed](https://github.com/google/trax)
 65.  [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax)
 66.  [QuickVision](https://github.com/Quick-AI/quickvision)
+67.  [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI)
 
 ### Tools
 
-1.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
+1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
+2.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
 2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
-4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
+4.  [Visual Studio Tools for AI](https://www.microsoft.com/en-us/research/project/visual-studio-code-tools-ai/) - Develop, debug and deploy deep learning and AI solutions
 5.  [TensorWatch](https://github.com/microsoft/tensorwatch) - Debugging and visualization for deep learning
 6. [ML Workspace](https://github.com/ml-tooling/ml-workspace) - All-in-one web-based IDE for machine learning and data science.
 7.  [dowel](https://github.com/rlworkgroup/dowel) - A little logger for machine learning research. Log any object to the console, CSVs, TensorBoard, text log files, and more with just one call to `logger.log()`
@@ -584,46 +607,48 @@
 
 ### Miscellaneous
 
-1.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
-2.  [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
-3.  [Word2Vec](https://code.google.com/p/word2vec/)
-4.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
-5.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
-6.  [gfx.js](https://github.com/clementfarabet/gfx.js)
-7.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
-8. [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
-9. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
-10. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
-11. [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
-12. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
-13. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
-14. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
-15. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps](https://github.com/idio/wiki2vec)
-16. [The original code from the DeepMind article + tweaks](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
-17. [Google deepdream - Neural Network art](https://github.com/google/deepdream)
-18. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
-19. [A recurrent neural network designed to generate classical music.](https://github.com/hexahedria/biaxial-rnn-music-composition)
-20. [Memory Networks Implementations - Facebook](https://github.com/facebook/MemNN)
-21. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
-22. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
-23. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
-24. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow)
-25. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
-26. [YOLO: Practical Implementation using Python](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
-27. [AlphaGo - A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search"](https://github.com/Rochester-NRT/AlphaGo)
-28. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-29. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
-30. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-31. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
-32. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
-33. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
-34. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
-35. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
-36. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
-37. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
-38. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
-39. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-40. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
+2.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
+3.  [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
+4.  [Word2Vec](https://code.google.com/p/word2vec/)
+5.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
+6.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
+8.  [gfx.js](https://github.com/clementfarabet/gfx.js)
+9.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+10. [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
+11. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
+12. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
+13. [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
+14. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
+15. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
+16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
+17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps](https://github.com/idio/wiki2vec)
+18. [The original code from the DeepMind article + tweaks](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
+19. [Google deepdream - Neural Network art](https://github.com/google/deepdream)
+20. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
+21. [A recurrent neural network designed to generate classical music.](https://github.com/hexahedria/biaxial-rnn-music-composition)
+22. [Memory Networks Implementations - Facebook](https://github.com/facebook/MemNN)
+23. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
+24. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
+25. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
+26. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow)
+27. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
+28. [YOLO: Practical Implementation using Python](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
+29. [AlphaGo - A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search"](https://github.com/Rochester-NRT/AlphaGo)
+30. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+31. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
+32. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+33. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
+34. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
+35. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
+36. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
+37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
+39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
+40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
+41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+42. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+43. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
 
 -----
 ### Contributing
