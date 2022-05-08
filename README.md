@@ -597,6 +597,7 @@
 66.  [QuickVision](https://github.com/Quick-AI/quickvision)
 67.  [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI)
 68.  [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
+69.  [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 
 ### Tools
 
