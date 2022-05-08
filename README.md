@@ -505,6 +505,11 @@
 142. [MSDA](https://github.com/bupt-ai-cz/Meta-SelfLearning) - Over over 5 million images from 5 different domains for multi-source ocr/text recognition DA research, [Project_Page](https://bupt-ai-cz.github.io/Meta-SelfLearning/)
 143. [SANAD: Single-Label Arabic News Articles Dataset for Automatic Text Categorization](https://data.mendeley.com/datasets/57zpx667y9/2) - SANAD Dataset is a large collection of Arabic news articles that can be used in different Arabic NLP tasks such as Text Classification and Word Embedding. The articles were collected using Python scripts written specifically for three popular news websites: AlKhaleej, AlArabiya and Akhbarona. 
 144. [Referit3D](https://referit3d.github.io) - Two large-scale and complementary visio-linguistic datasets (aka Nr3D and Sr3D) for identifying fine-grained 3D objects in ScanNet scenes. Nr3D contains 41.5K natural, free-form utterances, and Sr3d contains 83.5K template-based utterances.
+145. [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) - Stanford released ~100,000 English QA pairs and ~50,000 unanswerable questions
+146. [FQuAD](https://fquad.illuin.tech/) - ~25,000 French QA pairs released by Illuin Technology
+147. [GermanQuAD and GermanDPR](https://www.deepset.ai/germanquad) - deepset released ~14,000 German QA pairs
+148. [SberQuAD](https://github.com/annnyway/QA-for-Russian) - Sberbank released ~90,000 Russian QA pairs
+
 
 ### Conferences
 
@@ -591,6 +596,7 @@
 65.  [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax)
 66.  [QuickVision](https://github.com/Quick-AI/quickvision)
 67.  [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI)
+68.  [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
 
 ### Tools
 
