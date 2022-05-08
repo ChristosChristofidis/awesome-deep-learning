@@ -509,7 +509,7 @@
 146. [FQuAD](https://fquad.illuin.tech/) - ~25,000 French QA pairs released by Illuin Technology
 147. [GermanQuAD and GermanDPR](https://www.deepset.ai/germanquad) - deepset released ~14,000 German QA pairs
 148. [SberQuAD](https://github.com/annnyway/QA-for-Russian) - Sberbank released ~90,000 Russian QA pairs
-
+149. [ArtEmis](http://artemisdataset.org/) - Contains 450K affective annotations of emotional responses and linguistic explanations for 80,000 artworks of WikiArt.
 
 ### Conferences
 
