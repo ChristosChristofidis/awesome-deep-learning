@@ -665,6 +665,7 @@
 41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 42. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 43. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
+44. [Open Source Data Annotation & Labeling Tools for Machine Learning](https://github.com/zenml-io/awesome-open-data-annotation)
 
 -----
 ### Contributing
