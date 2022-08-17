@@ -623,7 +623,6 @@
 
 ### Miscellaneous
 
-1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
 2.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
 3.  [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 4.  [Word2Vec](https://code.google.com/p/word2vec/)
