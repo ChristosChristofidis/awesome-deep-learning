@@ -630,48 +630,47 @@
 
 ### Miscellaneous
 
-1.  [Google Plus - Deep Learning Community](https://plus.google.com/communities/112866381580457264725)
-2.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
-3.  [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
-4.  [Word2Vec](https://code.google.com/p/word2vec/)
-5.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
-6.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
-8.  [gfx.js](https://github.com/clementfarabet/gfx.js)
-9.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
-10. [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
-11. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
-12. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
-13. [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
-14. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
-15. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
-16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
-17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps](https://github.com/idio/wiki2vec)
-18. [The original code from the DeepMind article + tweaks](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
-19. [Google deepdream - Neural Network art](https://github.com/google/deepdream)
-20. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
-21. [A recurrent neural network designed to generate classical music.](https://github.com/hexahedria/biaxial-rnn-music-composition)
-22. [Memory Networks Implementations - Facebook](https://github.com/facebook/MemNN)
-23. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
-24. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
-25. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
-26. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow)
-27. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
-28. [YOLO: Practical Implementation using Python](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
-29. [AlphaGo - A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search"](https://github.com/Rochester-NRT/AlphaGo)
-30. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-31. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
-32. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-33. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
-34. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
-35. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
-36. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
-37. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
-38. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
-39. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
-40. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
-41. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-42. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
-43. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
+1.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
+2.  [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
+3.  [Word2Vec](https://code.google.com/p/word2vec/)
+4.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
+5.  [TorontoDeepLEarning convnet](https://github.com/TorontoDeepLearning/convnet)
+6.  [gfx.js](https://github.com/clementfarabet/gfx.js)
+7.  [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
+8. [Misc from MIT's 'Advanced Natural Language Processing' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
+9. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
+10. [Misc from MIT's 'Networks for Learning: Regression and Classification' course](http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-a-networks-for-learning-regression-and-classification-spring-2001/)
+11. [Misc from MIT's 'Neural Coding and Perception of Sound' course](http://ocw.mit.edu/courses/health-sciences-and-technology/hst-723j-neural-coding-and-perception-of-sound-spring-2005/index.htm)
+12. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
+13. [A chess AI that learns to play chess using deep learning.](https://github.com/erikbern/deep-pink)
+14. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind](https://github.com/kristjankorjus/Replicating-DeepMind)
+15. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps](https://github.com/idio/wiki2vec)
+16. [The original code from the DeepMind article + tweaks](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
+17. [Google deepdream - Neural Network art](https://github.com/google/deepdream)
+18. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
+19. [A recurrent neural network designed to generate classical music.](https://github.com/hexahedria/biaxial-rnn-music-composition)
+20. [Memory Networks Implementations - Facebook](https://github.com/facebook/MemNN)
+21. [Face recognition with Google's FaceNet deep neural network.](https://github.com/cmusatyalab/openface)
+22. [Basic digit recognition neural network](https://github.com/joeledenberg/DigitRecognition)
+23. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
+24. [Proof of concept for loading Caffe models in TensorFlow](https://github.com/ethereon/caffe-tensorflow)
+25. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
+26. [YOLO: Practical Implementation using Python](https://www.analyticsvidhya.com/blog/2018/12/practical-guide-object-detection-yolo-framewor-python/)
+27. [AlphaGo - A replication of DeepMind's 2016 Nature publication, "Mastering the game of Go with deep neural networks and tree search"](https://github.com/Rochester-NRT/AlphaGo)
+28. [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+29. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
+30. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+31. [Dockerface](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
+32. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
+33. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the graph level.
+34. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - Curated list of articles related to deep learning scientific research on graph structured data at the node level.
+35. [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) contains examples, utilities and best practices for building recommendation systems. Implementations of several state-of-the-art algorithms are provided for self-study and customization in your own applications.
+36. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - Andrej Karpathy blog post about using RNN for generating text.
+37. [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - Keras Implementation of Ladder Network for Semi-Supervised Learning 
+38. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
+39. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+40. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+41. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
 
 -----
 ### Contributing
