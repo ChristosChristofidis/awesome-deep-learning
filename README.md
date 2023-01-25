@@ -627,6 +627,7 @@
 13. [DVC](https://dvc.org/) - DVC is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
 14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
+16. [Arize AI](https://arize.com/) - Arize AI free observability tool for monitoring deep learning models and visualizing embeddings.
 
 
 ### Miscellaneous
