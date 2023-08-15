@@ -57,6 +57,7 @@
 24. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.knowledgeisle.com/wp-content/uploads/2019/12/2-Aur%C3%A9lien-G%C3%A9ron-Hands-On-Machine-Learning-with-Scikit-Learn-Keras-and-Tensorflow_-Concepts-Tools-and-Techniques-to-Build-Intelligent-Systems-O%E2%80%99Reilly-Media-2019.pdf) by Aurélien Géron  | Oct 15, 2019
 25. [Machine Learning Algorithms in Depth](https://www.manning.com/books/machine-learning-algorithms-in-depth) - by Vadim Smolyakov
 26. [Optimization Algorithms](https://www.manning.com/books/optimization-algorithms) - by Alaa Khamis
+27. [Machine Learning on Tabular Data](https://www.manning.com/books/machine-learning-on-tabular-data) - by Mark Ryan and Luca Massaron
 
 ### Courses
 
