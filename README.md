@@ -104,6 +104,9 @@
 43. [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) - DS-GA 1008 · SPRING 2021 
 44. [Neural Networks and Deep Learning](https://webcms3.cse.unsw.edu.au/COMP9444/19T3/) - COMP9444 19T3
 45. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
+46. [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+47. [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - Train and Deploy a Serverless API to predict crypto prices.
+48. [Hands-on LLMS](https://github.com/iusztinpaul/hands-on-llms) - Hands-on LLMOps: Train and deploy a real-time financial advisor chatbot.
 
 ### Videos and Lectures
 
@@ -627,6 +630,8 @@
 13. [DVC](https://dvc.org/) - DVC is built to make ML models shareable and reproducible. It is designed to handle large files, data sets, machine learning models, and metrics as well as code.
 14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
+16. [Comet](https://github.com/comet-ml/comet-examples) - MLOps platform that includes experiment tracking, model production management, a model registry, and data lineage to support your workflow from training straight through to production.
+17. [CometLLM](https://github.com/comet-ml/comet-llm) - Log, organize, visualize, and search your LLM prompts, prompt variables, prompt templates, and chains in one easy-to-use open-source platform.
 
 
 ### Miscellaneous
