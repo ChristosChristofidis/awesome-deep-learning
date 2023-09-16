@@ -105,6 +105,7 @@
 44. [Neural Networks and Deep Learning](https://webcms3.cse.unsw.edu.au/COMP9444/19T3/) - COMP9444 19T3
 45. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
 46. [MLSys-NYU-2022](https://github.com/jacopotagliabue/MLSys-NYU-2022/tree/main) - Slides, scripts and materials for the Machine Learning in Finance course at NYU Tandon, 2022.
+47. [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - Train and Deploy a Serverless API to predict crypto prices.
 
 ### Videos and Lectures
 
