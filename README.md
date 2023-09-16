@@ -628,6 +628,7 @@
 14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
 16. [Comet](https://github.com/comet-ml/comet-examples) - MLOps platform that includes experiment tracking, model production management, a model registry, and data lineage to support your workflow from training straight through to production.
+17. [CometLLM](https://github.com/comet-ml/comet-llm) - Log, organize, visualize, and search your LLM prompts, prompt variables, prompt templates, and chains in one easy-to-use open-source platform.
 
 
 ### Miscellaneous
