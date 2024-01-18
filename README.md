@@ -104,6 +104,7 @@
 43. [Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/) - DS-GA 1008 · SPRING 2021 
 44. [Neural Networks and Deep Learning](https://webcms3.cse.unsw.edu.au/COMP9444/19T3/) - COMP9444 19T3
 45. [Deep Learning A.I.Shelf](http://aishelf.org/category/ia/deep-learning/)
+46. [Deep Learning with PyTorch, Second Edition](https://www.manning.com/books/deep-learning-with-pytorch-second-edition)
 
 ### Videos and Lectures
 
