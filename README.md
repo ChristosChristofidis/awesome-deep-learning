@@ -611,6 +611,7 @@
 
 ### Tools
 
+1. [Synthical](https://synthical.com) - AI-powered collaborative research environment. You can use it to get recommendations of articles based on reading history, simplify papers, find out what articles are trending, search articles by meaning (not just keywords), create and share folders of articles, see lists of articles from specific companies and universities, and add highlights.
 1.  [Nebullvm](https://github.com/nebuly-ai/nebullvm) - Easy-to-use library to boost deep learning inference leveraging multiple deep learning compilers.
 2.  [Netron](https://github.com/lutzroeder/netron) - Visualizer for deep learning and machine learning models
 2.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
