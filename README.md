@@ -386,6 +386,7 @@
 36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 37.  [The Epic Code](https://theepiccode.com/)
 38.  [all AI news](https://allainews.com/)
+39.  [AI Conference Deadline](https://www.aiconferenceddl.com/)
 
 ### Datasets
 
