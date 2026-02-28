@@ -519,6 +519,7 @@
 147. [GermanQuAD and GermanDPR](https://www.deepset.ai/germanquad) - deepset released ~14,000 German QA pairs
 148. [SberQuAD](https://github.com/annnyway/QA-for-Russian) - Sberbank released ~90,000 Russian QA pairs
 149. [ArtEmis](http://artemisdataset.org/) - Contains 450K affective annotations of emotional responses and linguistic explanations for 80,000 artworks of WikiArt.
+150. [AI Displacement Tracker](https://github.com/noahaust2/ai-displacement-tracker) - Structured dataset of 94 AI-attributed workforce displacement events affecting 453K+ workers across 12 countries, with source-linked attribution tiers
 
 ### Conferences
 
