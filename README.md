@@ -672,6 +672,7 @@
 38. [toolbox: Curated list of ML libraries](https://github.com/amitness/toolbox)
 39. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 40. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
+42. [Awesome AI Index](https://github.com/alpha-one-index/awesome-ai-index) - A curated catalog of AI tools, models, papers, frameworks, and resources for engineers and researchers.
 41. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
 
 -----
