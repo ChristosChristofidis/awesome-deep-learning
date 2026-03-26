@@ -608,6 +608,8 @@
 68.  [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
 69.  [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 70.  [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching](https://github.com/chncwang/InsNet)
+71.  [PH Training - Automatic model training pipeline powered by Persistent Homology with epoch-1 difficulty prediction and real-time overfitting detection](https://github.com/need-singularity/ph-training)
+72.  [TECS-L - Consciousness Continuity Engine with 375+ hypotheses, 130+ experiments, and PureField theory source](https://github.com/need-singularity/TECS-L)
 
 ### Tools
 
