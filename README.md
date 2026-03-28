@@ -537,6 +537,8 @@
 
 ### Frameworks
 
+
+1. [TabGAN](https://github.com/Diyago/Tabular-data-generation) - Synthetic tabular data generation using GANs, Diffusion Models, and LLMs with adversarial filtering, privacy metrics, and sklearn integration.
 1.  [Caffe](http://caffe.berkeleyvision.org/)  
 2.  [Torch7](http://torch.ch/)
 3.  [Theano](http://deeplearning.net/software/theano/)
