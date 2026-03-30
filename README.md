@@ -199,6 +199,7 @@
 50. [ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/pdf/2010.11929.pdf)
 51. [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://proceedings.mlr.press/v37/ioffe15.pdf)
 52. [DeepFaceDrawing: Deep Generation of Face Images from Sketches](http://geometrylearning.com/paper/DeepFaceDrawing.pdf?fbclid=IwAR0colWFHPGBCB1APZq9JVsWeWtmeZd9oCTNQvR52T5PRUJP_dLOwB8pt0I)
+53. [Understand the Effectiveness of Shortcuts through the Lens of DCA](https://arxiv.org/abs/2412.09853)
 
 ### Tutorials
 
