@@ -673,6 +673,7 @@
 39. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 40. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 41. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
+42. [Awesome AI Tools](https://github.com/formatho/awesome-ai-tools) - Auto-updating curated list of 200+ AI tools with freshness tracking. Updates every 6 hours.
 
 -----
 ### Contributing
