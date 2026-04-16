@@ -386,6 +386,7 @@
 36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 37.  [The Epic Code](https://theepiccode.com/)
 38.  [all AI news](https://allainews.com/)
+39.  [8bitconcepts](https://8bitconcepts.com/) - AI industry research papers covering deep learning applications, LLM benchmarks, and agent architectures.
 
 ### Datasets
 
