@@ -537,6 +537,8 @@
 
 ### Frameworks
 
+- [OneComp](https://github.com/FujitsuResearch/OneCompression) - Fujitsu Research's post-training quantization pipeline for LLMs (arXiv:2603.28845).
+
 1.  [Caffe](http://caffe.berkeleyvision.org/)  
 2.  [Torch7](http://torch.ch/)
 3.  [Theano](http://deeplearning.net/software/theano/)
