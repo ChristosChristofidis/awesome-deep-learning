@@ -628,6 +628,7 @@
 14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
 16. [Maxim AI](https://getmaxim.ai) - Tool for AI Agent Simulation, Evaluation & Observability.
+17. [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with ML ensemble (XGBoost + Transformers) + pump scanner. 4 bot types (AI, Grid, DCA, Pump), 12 exchanges, Telegram alerts. Open source.
 
 
 ### Miscellaneous
