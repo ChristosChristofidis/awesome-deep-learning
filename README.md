@@ -241,6 +241,8 @@
 35. [Cross Matching Methods for Astronomical Catalogs](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs)
 36. [Named Entity Recognition using BiDirectional LSTMs](https://github.com/SauravMaheshkar/Named-Entity-Recognition-)
 37. [Image Recognition App using Tflite and Flutter](https://github.com/SauravMaheshkar/Flutter_Image-Recognition)
+38. [Learn AI Visually](https://learnaivisually.com) - Interactive browser simulations of LLM internals (attention, KV cache, paged-attention, quantization, batching) and GPU/CUDA architecture (warps, memory hierarchy, roofline, tensor cores, FlashAttention). No GPU required, runs entirely in the browser, free.
+
 
 ## Researchers
 
