@@ -673,6 +673,7 @@
 39. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 40. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 41. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
+42. [ML/AI Interview Prep](https://github.com/aasimansari1/ml-interview-prep) - 500+ deep learning interview Q&A with runnable PyTorch/TensorFlow code, covering attention, transformers, CNNs, RNNs, training tricks, and ML system design.
 
 -----
 ### Contributing
