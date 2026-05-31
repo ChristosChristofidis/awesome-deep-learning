@@ -608,6 +608,7 @@
 68.  [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
 69.  [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 70.  [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching](https://github.com/chncwang/InsNet)
+71.  [FunASR - Industrial-grade speech recognition toolkit with 50+ languages, built-in VAD, punctuation, speaker diarization, and emotion detection](https://github.com/modelscope/FunASR)
 
 ### Tools
 
