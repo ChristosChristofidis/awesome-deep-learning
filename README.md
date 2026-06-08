@@ -628,6 +628,7 @@
 14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
 16. [Maxim AI](https://getmaxim.ai) - Tool for AI Agent Simulation, Evaluation & Observability.
+17. [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments in agentic deep learning pipelines. Free MCP endpoint for `score_agent` and `preflight_check`.
 
 
 ### Miscellaneous
