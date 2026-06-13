@@ -673,6 +673,7 @@
 39. [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 40. [AI Expert Roadmap](https://github.com/AMAI-GmbH/AI-Expert-Roadmap) - Roadmap to becoming an Artificial Intelligence Expert
 41. [Awesome Drug Interactions, Synergy, and Polypharmacy Prediction](https://github.com/AstraZeneca/awesome-polipharmacy-side-effect-prediction/)
+42. [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) - Cascade MoE Neural Network with shared neuron pool, zero catastrophic forgetting, CPU-only inference (18ms), patented architecture.
 
 -----
 ### Contributing
