@@ -630,6 +630,7 @@
 16. [Maxim AI](https://getmaxim.ai) - Tool for AI Agent Simulation, Evaluation & Observability.
 
 
+17. [NEURAX](https://github.com/rustnew/NEURAX) - Analytical compiler for neural network architectures. Predicts training cost, memory, and performance before training (<50ms, zero GPU).
 ### Miscellaneous
 
 1.  [Caffe Webinar](http://on-demand-gtc.gputechconf.com/gtcnew/on-demand-gtc.php?searchByKeyword=shelhamer&amp;searchItems=&amp;sessionTopic=&amp;sessionEvent=4&amp;sessionYear=2014&amp;sessionFormat=&amp;submit=&amp;select=+)
