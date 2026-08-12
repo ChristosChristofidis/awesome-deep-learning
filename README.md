@@ -684,3 +684,4 @@ Have anything in mind that you think is awesome and would fit in this list? Feel
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Christos Christofidis](https://linkedin.com/in/Christofidis) has waived all copyright and related or neighboring rights to this work.
+[local-face-photo-search](https://github.com/ethan1819/face_search) — 100% local desktop face photo search (PySide6 + InsightFace).
