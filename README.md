@@ -628,6 +628,7 @@
 14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
 16. [Maxim AI](https://getmaxim.ai) - Tool for AI Agent Simulation, Evaluation & Observability.
+17. [VeritasGraph](https://github.com/bibinprathap/VeritasGraph) - Enterprise GraphRAG framework with MCP server for building knowledge graphs from research papers and documents. Combines hierarchical tree-search retrieval with typed entity relationships and verifiable source attribution. Runs entirely offline via Ollama for secure, air-gapped deployments. [PyPI](https://pypi.org/project/veritasgraph-mcp/)
 
 
 ### Miscellaneous
