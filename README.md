@@ -365,7 +365,7 @@
 15.  [isi.edu/AI/isd.htm](http://www.isi.edu/AI/isd.htm)
 16.  [nrl.navy.mil/itd/aic](http://www.nrl.navy.mil/itd/aic/)
 17.  [hips.seas.harvard.edu](http://hips.seas.harvard.edu/)
-18.  [AI Weekly](http://aiweekly.co)
+18.  [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now.
 19.  [stat.ucla.edu](http://statistics.ucla.edu/)
 20.  [deeplearning.cs.toronto.edu](http://deeplearning.cs.toronto.edu/i2t)
 21.  [jeffdonahue.com/lrcn/](http://jeffdonahue.com/lrcn/)
