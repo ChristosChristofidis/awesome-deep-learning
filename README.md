@@ -386,6 +386,7 @@
 36.  [CatalyzeX: Machine Learning Hub for Builders and Makers](https://www.catalyzeX.com)
 37.  [The Epic Code](https://theepiccode.com/)
 38.  [all AI news](https://allainews.com/)
+39.  [QuiddityML](https://quiddityml.com/?utm_source=github&utm_medium=awesome&utm_campaign=awesome-deep-learning) - Short lessons with hands-on coding exercises and spaced repetition, covering Python, PyTorch, math for ML, ML foundations, NLP, and computer vision
 
 ### Datasets
 
