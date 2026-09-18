@@ -1,4 +1,4 @@
-﻿# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -628,6 +628,7 @@
 14. [CML](https://cml.dev/) - CML helps you bring your favorite DevOps tools to machine learning.
 15. [MLEM](https://mlem.ai/) - MLEM is a tool to easily package, deploy and serve Machine Learning models. It seamlessly supports a variety of scenarios like real-time serving and batch processing.
 16. [Maxim AI](https://getmaxim.ai) - Tool for AI Agent Simulation, Evaluation & Observability.
+17. [Sealed Rose](https://sealedrose.com/verify-video) - AI deepfake detection and frame forensics platform for verifying synthetic media authenticity, detecting AI generated videos and images, and analyzing manipulation artifacts.
 
 
 ### Miscellaneous
