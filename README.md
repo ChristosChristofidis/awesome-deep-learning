@@ -414,7 +414,7 @@
 27. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - A database of 41,368 face images of 68 people captured under 13 poses, 43 illuminations conditions, and with 4 different expressions.
 28. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - Images, sequences, stereo pairs (thousands of images) (Formats: Sun Rasterimage)
 29. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html) - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
-30. [Columbia-Utrecht Reflectance and Texture Database](http://www.cs.columbia.edu/CAVE/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
+30. [Columbia-Utrecht Reflectance and Texture Database](https://www.cs.columbia.edu/CAVE/software/curet/) - Texture and reflectance measurements for over 60 samples of 3D texture, observed with over 200 different combinations of viewing and illumination directions. (Formats: bmp)
 31. [Computational Colour Constancy Data](http://www.cs.sfu.ca/~colour/data/index.html) - A dataset oriented towards computational color constancy, but useful for computer vision in general. It includes synthetic data, camera sensor data, and over 700 images. (Formats: tiff)
 32. [Computational Vision Lab](http://www.cs.sfu.ca/~colour/)
 34. [Content-based image retrieval database](http://www.cs.washington.edu/research/imagedatabase/groundtruth/) - 11 sets of color images for testing algorithms for content-based retrieval. Most sets have a description file with names of objects in each image. (Formats: jpg)
@@ -460,7 +460,7 @@
 80. [OSU (MSU/WSU) Range Image Database](http://eewww.eng.ohio-state.edu/~flynn/3DDB/RID/) - Hundreds of real and synthetic images (Formats: gif, homebrew)
 81. [OSU/SAMPL Database: Range Images, 3D Models, Stills, Motion Sequences](http://sampl.eng.ohio-state.edu/~sampl/database.htm) - Over 1000 range images, 3D object models, still images and motion sequences (Formats: gif, ppm, vrml, homebrew)
 82. [Signal Analysis and Machine Perception Laboratory](http://sampl.eng.ohio-state.edu)
-84. [Otago Optical Flow Evaluation Sequences](http://www.cs.otago.ac.nz/research/vision/Research/OpticalFlow/opticalflow.html) - Synthetic and real sequences with machine-readable ground truth optical flow fields, plus tools to generate ground truth for new sequences. (Formats: ppm,tif,homebrew)
+84. [Otago Optical Flow Evaluation Sequences](https://of-eval.sourceforge.net/) - Synthetic and real sequences with machine-readable ground truth optical flow fields, plus tools to generate ground truth for new sequences. (Formats: ppm,tif,homebrew)
 85. [Vision Research Group](http://www.cs.otago.ac.nz/research/vision/index.html)
 87. [ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/](ftp://ftp.limsi.fr/pub/quenot/opflow/testdata/piv/) - Real and synthetic image sequences used for testing a Particle Image Velocimetry application. These images may be used for the test of optical flow and image matching algorithms. (Formats: pgm (raw))
 88. [LIMSI-CNRS/CHM/IMM/vision](https://web.archive.org/web/20231203075852/https://www.lisn.upsaclay.fr/recherche/departements-et-equipes/)
