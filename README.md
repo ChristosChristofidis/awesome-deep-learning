@@ -52,7 +52,6 @@
 19. [Evolutionary Deep Learning](https://www.manning.com/books/evolutionary-deep-learning) - by Micheal Lanham
 20. [Engineering Deep Learning Platforms](https://www.manning.com/books/engineering-deep-learning-platforms) - by Chi Wang and Donald Szeto
 21. [Deep Learning with R, Second Edition](https://www.manning.com/books/deep-learning-with-r-second-edition) - by François Chollet with Tomasz Kalinowski and J. J. Allaire
-22. [Regularization in Deep Learning](https://www.manning.com/books/regularization-in-deep-learning) - by Liu Peng
 23. [Jax in Action](https://www.manning.com/books/jax-in-action) - by Grigory Sapunov
 24. [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) by Aurélien Géron  | Oct 15, 2019
 
@@ -85,7 +84,7 @@
 24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
 25. [Practical Deep Learning For Coders](http://course.fast.ai/) by Jeremy Howard - Fast.ai
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/) by Prof. Bhiksha Raj (2017)
-27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) by Andrew Ng (2019)
+27. [AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone) by Andrew Ng (2019)
 28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
 29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - A free five-weekend plan to self-learners to learn the basics of deep-learning architectures like CNNs, LSTMs, RNNs, VAEs, GANs, DQN, A3C and more (2019)
 30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) - A free deep reinforcement learning course by OpenAI (2019)
@@ -120,7 +119,7 @@
 11.  [The Next Generation of Neural Networks](https://www.youtube.com/watch?v=AyzOUbkUf3M) By Geoffrey Hinton at GoogleTechTalks
 12.  [The wonderful and terrifying implications of computers that can learn](http://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn) By Jeremy Howard at TEDxBrussels
 13.  [Unsupervised Deep Learning - Stanford](http://web.stanford.edu/class/cs294a/handouts.html) by Andrew Ng in Stanford (2011)
-14.  [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
+14.  [Natural Language Processing](https://cs224n.stanford.edu/) By Chris Manning in Stanford
 15.  [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) By Natalie Hammel and Lorraine Yurshansky
 16.  [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanford.
 17. [Introduction to Artificial Neural Networks and Deep Learning](https://www.youtube.com/watch?v=FoO8qDB8gUU) by Leo Isikdogan at Motorola Mobility HQ
@@ -204,7 +203,7 @@
 
 1.  [UFLDL Tutorial 1](http://deeplearning.stanford.edu/wiki/index.php/UFLDL_Tutorial)
 2.  [UFLDL Tutorial 2](http://ufldl.stanford.edu/tutorial/supervised/LinearRegression/)
-3.  [Deep Learning for NLP (without Magic)](http://www.socher.org/index.php/DeepLearningTutorial/DeepLearningTutorial)
+3.  [Deep Learning for NLP (without Magic)](https://aclanthology.org/N13-4001/)
 4.  [A Deep Learning Tutorial: From Perceptrons to Deep Networks](http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks)
 5.  [Deep Learning from the Bottom up](http://www.metacademy.org/roadmaps/rgrosse/deep_learning)
 6.  [Theano Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf)
@@ -252,7 +251,7 @@
 7. [ Amos Storkey ](http://homepages.inf.ed.ac.uk/amos/)
 8. [ Andrej Karpathy ](https://karpathy.ai/)
 9. [ Andrew M. Saxe ](http://www.stanford.edu/~asaxe/)
-10. [ Andrew Ng ](http://www.cs.stanford.edu/people/ang/)
+10. [ Andrew Ng ](https://profiles.stanford.edu/andrew-ng)
 11. [ Andrew W. Senior ](http://research.google.com/pubs/author37792.html)
 12. [ Andriy Mnih ](http://www.gatsby.ucl.ac.uk/~amnih/)
 13. [ Ayse Naz Erkan ](http://www.cs.nyu.edu/~naz/)
@@ -274,7 +273,7 @@
 29. [ Galen Andrew ](http://web.archive.org/web/20160201031319/http://homes.cs.washington.edu/~galen/)
 30. [ Geoffrey Hinton ](http://www.cs.toronto.edu/~hinton/)
 31. [ George Dahl ](http://www.cs.toronto.edu/~gdahl/)
-32. [ Graham Taylor ](http://www.uoguelph.ca/~gwtaylor/)
+32. [ Graham Taylor ](https://www.uoguelph.ca/profile/graham-w-taylor-phd-peng)
 33. [ Grégoire Montavon ](http://gregoire.montavon.name/)
 34. [ Guido Francisco Montúfar ](http://personal-homepages.mis.mpg.de/montufar/)
 35. [ Guillaume Desjardins ](http://brainlogging.wordpress.com/)
@@ -294,7 +293,7 @@
 49. [ Jürgen Schmidhuber ](http://www.idsia.ch/~juergen/)
 50. [ Justin A. Blanco ](https://sites.google.com/site/blancousna/)
 51. [ Koray Kavukcuoglu ](http://koray.kavukcuoglu.org/)
-52. [ KyungHyun Cho ](http://users.ics.aalto.fi/kcho/)
+52. [ KyungHyun Cho ](https://cims.nyu.edu/people/profiles/CHO_Kyunghyun.html)
 53. [ Li Deng ](http://research.microsoft.com/en-us/people/deng/)
 54. [ Lucas Theis ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/lucas.html)
 55. [ Ludovic Arnold ](http://web.archive.org/web/20210918003914/http://ludovicarnold.altervista.org/home/)
@@ -324,7 +323,7 @@
 79. [ Ronan Collobert ](http://ronan.collobert.com/)
 80. [ Ruslan Salakhutdinov ](http://www.utstat.toronto.edu/~rsalakhu/)
 81. [ Sebastian Gerwinn ](http://www.kyb.tuebingen.mpg.de/nc/employee/details/sgerwinn.html)
-82. [ Stéphane Mallat ](http://www.cmap.polytechnique.fr/~mallat/)
+82. [ Stéphane Mallat ](https://www.college-de-france.fr/en/person/stephane-mallat)
 83. [ Sven Behnke ](http://www.ais.uni-bonn.de/behnke/)
 84. [ Tapani Raiko ](http://users.ics.aalto.fi/praiko/)
 85. [ Tara Sainath ](https://sites.google.com/site/tsainath/)
@@ -449,8 +448,8 @@
 67. [Machine Vision](http://web.archive.org/web/20081202134405/http://vision.cse.psu.edu/book/testbed/images/) - Images from the textbook by Jain, Kasturi, Schunck (20+ images) (Formats: GIF TIFF)
 68. [Mammography Image Databases](http://marathon.csee.usf.edu/Mammography/Database.html) - 100 or more images of mammograms with ground truth. Additional images available by request, and links to several other mammography databases are provided. (Formats: homebrew)
 69. [ftp://ftp.cps.msu.edu/pub/prip](ftp://ftp.cps.msu.edu/pub/prip) - many images (Formats: unknown)
-70. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html) - Six multi-frame stereo data sets of scenes containing planar regions. Each data set contains 9 color images and subpixel-accuracy ground-truth data. (Formats: ppm)
-71. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) - Middlebury College
+70. [Middlebury Stereo Data Sets with Ground Truth](https://vision.middlebury.edu/stereo/data/) - Six multi-frame stereo data sets of scenes containing planar regions. Each data set contains 9 color images and subpixel-accuracy ground-truth data. (Formats: ppm)
+71. [Middlebury Stereo Vision Research Page](https://vision.middlebury.edu/stereo/) - Middlebury College
 72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - High Altitude Imagery from around the world for environmental modeling in support of NASA EOS program (Formats: JPG and HDF)
 73. [NIST Fingerprint and handwriting](ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - datasets - thousands of images (Formats: unknown)
 74. [NIST Fingerprint data](ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - compressed multipart uuencoded tar file
@@ -604,7 +603,7 @@
 65.  [Flax - a neural network ecosystem for JAX that is designed for flexibility](https://github.com/google/flax)
 66.  [QuickVision](https://github.com/Quick-AI/quickvision)
 67.  [Colossal-AI - An Integrated Large-scale Model Training System with Efficient Parallelization Techniques](https://github.com/hpcaitech/ColossalAI)
-68.  [haystack: an open-source neural search framework](https://haystack.deepset.ai/docs/intromd)
+68.  [haystack: an open-source neural search framework](https://docs.haystack.deepset.ai/docs)
 69.  [Maze](https://github.com/enlite-ai/maze) - Application-oriented deep reinforcement learning framework addressing real-world decision problems.
 70.  [InsNet - A neural network library for building instance-dependent NLP models with padding-free dynamic batching](https://github.com/chncwang/InsNet)
 
