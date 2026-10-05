@@ -395,7 +395,7 @@
 6.  [Flickr Data](https://yahooresearch.tumblr.com/post/89783581601/one-hundred-million-creative-commons-flickr-images) 100 Million Yahoo dataset
 7.  [Berkeley Segmentation Dataset 500](https://web.archive.org/web/20231204160109/https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
 8.  [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
-9.  [Flickr 8k](http://nlp.cs.illinois.edu/HockenmaierGroup/Framing_Image_Description/KCCA.html)
+9.  [Flickr 8k](https://hockenmaier.cs.illinois.edu/Framing_Image_Description/KCCA.html)
 10. [Flickr 30k](http://shannon.cs.illinois.edu/DenotationGraph/)
 11. [Microsoft COCO](http://mscoco.org/home/)
 12. [VQA](http://www.visualqa.org/)
